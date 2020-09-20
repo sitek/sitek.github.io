@@ -7,7 +7,7 @@ You can find me on [twitter](https://twitter.com/krsitek) and on [ResearchGate](
 ## Publications
 For an up-to-date publication list, see [Google Scholar](https://scholar.google.com/citations?hl=en&user=fNPFNhsAAAAJ).
 
-![Image](https://github.com/sitek/sitek.github.io/blob/master/images/demonculus_postmortem-brainstem.png)
+![Image](images/demonculus_postmortem-brainstem.png)
 
 
 ## Welcome to GitHub Pages
