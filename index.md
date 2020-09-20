@@ -1,3 +1,15 @@
+## Imaging the human sensory brainstem
+I'm a neuroscientist studying subcortical structures in the human brain that process sensory stimuli.
+I'm currently a postdoctoral associate at [Baylor College of Medicine](https://www.bcm.edu/people-search/kevin-sitek-36931).
+
+You can find me on [twitter](https://twitter.com/krsitek) and on [ResearchGate](https://www.researchgate.net/profile/Kevin_Sitek).
+
+## Publications
+For an up-to-date publication list, see [Google Scholar](https://scholar.google.com/citations?hl=en&user=fNPFNhsAAAAJ).
+
+![Image](https://github.com/sitek/sitek.github.io/blob/master/images/demonculus_postmortem-brainstem.png)
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/sitek/sitek.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
