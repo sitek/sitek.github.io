@@ -1,4 +1,4 @@
-## Investigating the sensory brainstem with human MRI
+## Imaging the human sensory brainstem
 I'm a neuroscientist studying subcortical structures in the human brain that process sensory stimuli.
 I'm currently a postdoctoral associate at [Baylor College of Medicine](https://www.bcm.edu/people-search/kevin-sitek-36931).
 
