@@ -8,8 +8,8 @@ I'm also the [Social Media and Communications Manager](https://twitter.com/OHBM_
 
 ## [Research interests](./projects.md)
 
-## Publications
-For an up-to-date publication list, see [Google Scholar](https://scholar.google.com/citations?hl=en&user=fNPFNhsAAAAJ).
+## [Publications](./publications.md)
+
 
 ![Image](https://github.com/sitek/sitek.github.io/blob/master/images/demonculus_postmortem-brainstem.png?raw=true)
 
