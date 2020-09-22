@@ -12,7 +12,7 @@ To learn more about brainstem anatomy in living humans, I have used "quantitativ
 In future work, I will quantify anatomical tissue properties in human brainstem within individual structures (for instance, in the layers of the superior colliculus).
 
 ## Brain connectivity underlying human communication
-
+![Image](./images/KevinSitek_postmortem-human-brainstem_auditory-tractography.png)
 
 ## Neural processing of complex sensory stimuli
 ### Auditory processing of our own speech

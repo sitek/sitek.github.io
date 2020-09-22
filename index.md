@@ -10,5 +10,6 @@ I'm also the [Social Media and Communications Manager](https://twitter.com/OHBM_
 
 ## [Publications](./publications.md)
 
+![Image](./images/KevinSitek_postmortem-human-brainstem_auditory-tractography.png)
 
 ![Image](https://github.com/sitek/sitek.github.io/blob/master/images/demonculus_postmortem-brainstem.png?raw=true)
