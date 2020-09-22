@@ -6,10 +6,6 @@ You can find me on [twitter](https://twitter.com/krsitek), [GitHub](github.com/s
 
 I'm also the [Social Media and Communications Manager](https://twitter.com/OHBM_Trainees) of the OHBM [Student–Postdoc Special Interest Group](https://www.ohbmtrainees.com/).
 
-## [Research interests](./projects.md)
-
-## [Publications](./publications.md)
-
 ![Image](./images/KevinSitek_postmortem-human-brainstem_auditory-tractography.png)
 
 ![Image](https://github.com/sitek/sitek.github.io/blob/master/images/demonculus_postmortem-brainstem.png?raw=true)
