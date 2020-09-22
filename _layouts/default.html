@@ -22,8 +22,8 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
-        <p class="view"><a href="{{ "/projects" | relative_url  }}"><big><strong>Research interests</strong></big></a></p>
-        <p class="view"><a href="{{ "/publications" | relative_url  }}"><big><strong>Publications</strong></big></a></p>
+        <h2><p class="view"><a href="{{ "/projects" | relative_url  }}">Research interests</a></p></h2>
+        <h2><p class="view"><a href="{{ "/publications" | relative_url  }}">Publications</a></p></h2>
 
         {% if site.github.is_project_page %}
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
