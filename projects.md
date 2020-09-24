@@ -12,7 +12,10 @@ To learn more about brainstem anatomy in living humans, I have used "quantitativ
 In future work, I will quantify anatomical tissue properties in human brainstem within individual structures (for instance, in the layers of the superior colliculus).
 
 ## Brain connectivity underlying human communication
+The computational power of the brain comes from its incredible interconnectedness. To study brain connectivity in living humans, we can estimate structural connectivity using diffusion-weighted MRI tractography, and we can estimate functional connectivity using functional MRI. I used tractography to map the subcortical auditory system in both typical participants and in a post mortem sample ([Sitek & Gulban et al., 2019](https://doi.org/10.7554/eLife.48932)).
 ![Image](./images/KevinSitek_postmortem-human-brainstem_auditory-tractography.png)
+
+To study whole brain connectivity in persistent developmental stuttering, I used both tractography and functional connectivity and found that long-range functional connectivity between orbitofrontal cortex and cerebellum was strongly negatively correlated with stuttering severity in adults ([Sitek et al., 2016](https://doi.org/10.3389/fnhum.2016.00190)).
 
 ## Neural processing of complex sensory stimuli
 ### Auditory processing of our own speech
