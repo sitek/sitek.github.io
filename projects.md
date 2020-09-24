@@ -23,6 +23,8 @@ To study whole brain connectivity in persistent developmental stuttering, I used
 ### Auditory processing of our own speech
 While we speak, our brains are not only generating the motor commands for speech—they're also listening to the sounds we're creating to make sure we're saying what we intended to say. This processing is accentuated when the auditory feedback given to the participant is altered to be different from what was produced, but we wanted to know if it varies based on the natural variability of speech production. I looked at the brain's natural electrical signals using EEG during speech production and playback and found that auditory cortex is more active when a repeated utterance is very different from the previous example of that utterance ([Sitek et al., 2013](https://doi.org/10.1371/journal.pone.0082925)).
 
+![Image](./images/Sitek2013_Fig1.png)
+
 ### Processing emotional speech
 Speech production is affected by a variety of factors, including a speaker's mental state. Using functional MRI, I investigated how emotional speech is processed in the brains of typical individuals and in those with major depressive disorder (MDD) ([Sitek et al., 2017 SNL poster](https://doi.org/10.6084/m9.figshare.5554846.v1)). Depressed individuals showed greater activation of motor and limbic cortical regions and altered connectivity of the right insula, a major cortical hub.
 
