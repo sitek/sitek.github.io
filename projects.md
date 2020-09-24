@@ -4,6 +4,8 @@
 ### Post mortem imaging of subcortical auditory structures
 Much of our knowledge of the brainstem comes from research conducted in animal models. While a lot of brainstem anatomy is the same across mammals, there are species-specific anatomy features that are difficult to study in humans due to technical challenges. I have used state-of-the-art imaging techniques of post mortem human brains to bridge the gap between animal models and research with typical human participants. With Faruk Gulban and others, I published the first publicly available 3-D atlases of human auditory brainstem structures based on post mortem MRI and histology ([Sitek & Gulban et al., 2019](https://doi.org/10.7554/eLife.48932)).
 
+![Image(./images/Figure_1_simplified_LL.png)]
+
 We are currently examining vasculature in the human dorsal midbrain (superior colliculus and inferior colliculus) to better understand how vasculature may influence the functional MRI signal.
 
 ### Brainstem tissue properties in typical human participants
