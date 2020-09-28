@@ -2,7 +2,7 @@ I am a postdoctoral associate at [Baylor College of Medicine](https://www.bcm.ed
 
 I'm involved in the Organization for Human Brain Mapping community as the Social Media and Communications Chair of the [Student–Postdoc Special Interest Group](https://twitter.com/OHBM_Trainees), a member of the Technology (virtual conference) Task Force, and an observer on the Communications Committee.
 
-I received my PhD in 2019 from Harvard University's [Program in Speech and Hearing Bioscience and Technology](), where I was mentored by [Dr. Satra Ghosh]() at the [McGovern Institute for Brain Research]() at MIT.
+I received my PhD in 2019 from Harvard University's [Program in Speech and Hearing Bioscience and Technology](http://dms.hms.harvard.edu/shbt/), where I was mentored by [Dr. Satra Ghosh](http://satra.cogitatum.org/) at the [McGovern Institute for Brain Research](https://mcgovern.mit.edu/) at MIT.
 
 While I was at MIT, a small audio clip took the world by storm. With another PhD student, Dana Boebinger, I gave my perspective on the auditory phenomenon of "Yanny" vs. "Laurel", which has been viewed over 50,000 times [on youtube](https://youtu.be/zaAdNbOTSWY).
 
