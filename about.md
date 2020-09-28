@@ -1,3 +1,4 @@
+# About me
 I am a postdoctoral associate at [Baylor College of Medicine](https://www.bcm.edu/people-search/kevin-sitek-36931), where I study the brain regions and connections that underlie human perception and communication.
 
 I'm involved in the Organization for Human Brain Mapping community as the Social Media and Communications Chair of the [Student–Postdoc Special Interest Group](https://twitter.com/OHBM_Trainees), a member of the Technology (virtual conference) Task Force, and an observer on the Communications Committee.
