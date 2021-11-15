@@ -1,7 +1,7 @@
 # About me
-I am a postdoctoral associate at the [University of Pittsburgh](https://www.shrs.pitt.edu/csd/research/sound-brain-lab/sound-brain-lab-members), where I study the brain regions and connections that underlie human perception and communication.
+I am a research scientist at the [University of Pittsburgh](https://www.shrs.pitt.edu/people/kevin-r-sitek), where I study the brain regions and connections that underlie human perception and communication in the [SoundBrain Lab](https://www.shrs.pitt.edu/csd/research/sound-brain-lab/sound-brain-lab-members).
 
-I'm involved in the Organization for Human Brain Mapping community as the Social Media and Communications Chair of the [Student–Postdoc Special Interest Group](https://twitter.com/OHBM_Trainees), a member of the Technology (virtual conference) Task Force, and an observer on the Communications Committee.
+I'm involved in the Organization for Human Brain Mapping community as blog writer and podcast editor with the Communications Committee, also serving as the Diversity and Inclusivity Committee liaison.
 
 I received my PhD in 2019 from Harvard University's [Program in Speech and Hearing Bioscience and Technology](http://dms.hms.harvard.edu/shbt/), where I was mentored by [Dr. Satra Ghosh](http://satra.cogitatum.org/) at the [McGovern Institute for Brain Research](https://mcgovern.mit.edu/) at MIT.
 
