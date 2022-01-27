@@ -2,6 +2,7 @@
 For an up-to-date publication list, see [Google Scholar](https://scholar.google.com/citations?hl=en&user=fNPFNhsAAAAJ).
 
 ## Peer-reviewed publications
+- **Sitek, K.R.**, Calabrese, E., Johnson, G.A., Ghosh, S.S., Chandrasekaran, B. (Accepted) "Structural connectivity of human inferior colliculus subdivisions using in vivo and post mortem diffusion MRI tractography." _Frontiers in Neuroscience_.
 - P Truong, JH Kim, R Savjani, **KR Sitek**, G Hagberg, K Scheffler, D Ress. [Depth relationships and measures of tissue thickness in dorsal midbrain](https://doi.org/10.1002/hbm.25185). _Human Brain Mapping_ (2020).
 - **Sitek KR**, Gulban OF, Calabrese E, Johnson GA, Lage-Castellanos A, Moerel M, Ghosh SS, De Martino F. [Mapping the human subcortical auditory system using histology, postmortem MRI and in vivo MRI at 7T](https://doi.org/10.7554/eLife.48932). _eLife_ (2019).
 - Boets B, Van Eylen L, **Sitek K**, Moors P, Noens I, Steyaert J, Sunaert S, Wagemans J. [Alterations in the inferior longitudinal fasciculus in autism and associations with visual processing: a diffusion-weighted MRI study](https://doi.org/10.1186/s13229-018-0188-6). _Molecular autism_ (2018).
