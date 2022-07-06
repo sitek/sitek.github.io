@@ -2,6 +2,7 @@
 For an up-to-date publication list, see [Google Scholar](https://scholar.google.com/citations?hl=en&user=fNPFNhsAAAAJ).
 
 ## Peer-reviewed publications
+- Fan, J., **Sitek, K.R.**, Chandrasekaran, B., Sarkar, A. "Bayesian Tensor Factorized Mixed Effects Vector Autoregressive Processes for Inferring Granger Causality Patterns from High-Dimensional Neuroimage Data." _arXiv_ (2022 preprint).
 - Gnanateja, G.N., Devaraju, D.S., Heyne, M., Quique, Y.M., **Sitek, K.R.**, Tardif, M.C., Tessmer, R., Dial, H.R. “On the role of neural oscillations across timescales in speech and music processing.” _Frontiers in Computational Neuroscience_ (2022). https://www.frontiersin.org/articles/10.3389/fncom.2022.872093/abstract 
 - **Sitek, K.R.**, Calabrese, E., Johnson, G.A., Ghosh, S.S., Chandrasekaran, B. [Structural connectivity of human inferior colliculus subdivisions using in vivo and post mortem diffusion MRI tractography](https://www.frontiersin.org/articles/10.3389/fnins.2022.751595/full). _Frontiers in Neuroscience_ (2022).
 - P Truong, JH Kim, R Savjani, **KR Sitek**, G Hagberg, K Scheffler, D Ress. [Depth relationships and measures of tissue thickness in dorsal midbrain](https://doi.org/10.1002/hbm.25185). _Human Brain Mapping_ (2020).
@@ -12,6 +13,8 @@ For an up-to-date publication list, see [Google Scholar](https://scholar.google.
 - **Sitek KR**, Mathalon DH, Roach BJ, Houde JF, Niziolek CA, Ford JM. [Auditory cortex processes variation in our own speech](https://doi.org/10.1371/journal.pone.0082925). _PloS one_ (2013).
 
 ## Conference proceedings and abstracts
+- **Sitek KR** & Gulban OF. Vasculature mapping in human superior and inferior colliculus. In _28th Annual Meeting of the Organization for Human Brain Mapping_ (2022).
+-  Gnanateja, G. N.\*, **Sitek, K. R.\***, Llanos, F., and Chandrasekaran, B. (2022). Cross-Modal Approach to Studying FFRs in a Representational Similarity Analysis Framework. Poster presented at the FFR Workshop, Barcelona, Spain, June 6–8, 2022.
 - **Sitek K**, Asma Q, Molla F, Hagberg G, Kim JH, Scheffler K, Himmelbach M, Ress D. [Somatovisual processing in the deep layers of the human superior colliculus](https://ww4.aievolution.com/hbm2001/index.cfm?do=abs.viewAbs&abs=3074). In _26th Annual Meeting of the Organization for Human Brain Mapping_ (2020).
 - **Sitek K**, Ghosh S. [Mapping the human subcortical auditory system with 3T quantitative MRI](https://ww4.aievolution.com/hbm2001/index.cfm?do=abs.viewAbs&subView=1&abs=3154). In _26th Annual Meeting of the Organization for Human Brain Mapping_ (2020).
 - **Sitek K**, Ciccarelli G, Goncalves M, Quatieri T, Ghosh S. [Depression alters limbic-sensorimotor brain interactions during implicit emotional speech production](https://doi.org/10.6084/m9.figshare.5554846.v1). Poster presented at the meeting of the Society for the Neurobiology of Language (2017).
