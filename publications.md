@@ -2,7 +2,7 @@
 For an up-to-date publication list, see [Google Scholar](https://scholar.google.com/citations?hl=en&user=fNPFNhsAAAAJ).
 
 ## Peer-reviewed publications
-- Fan, J., **Sitek, K.R.**, Chandrasekaran, B., Sarkar, A. "Bayesian Tensor Factorized Mixed Effects Vector Autoregressive Processes for Inferring Granger Causality Patterns from High-Dimensional Neuroimage Data." _arXiv_ (2022 preprint).
+- Fan, J., **Sitek, K.R.**, Chandrasekaran, B., Sarkar, A. [Bayesian Tensor Factorized Mixed Effects Vector Autoregressive Processes for Inferring Granger Causality Patterns from High-Dimensional Neuroimage Data.](https://doi.org/10.48550/arXiv.2206.10757) _arXiv_ (2022 preprint).
 - Gnanateja, G.N., Devaraju, D.S., Heyne, M., Quique, Y.M., **Sitek, K.R.**, Tardif, M.C., Tessmer, R., Dial, H.R. “On the role of neural oscillations across timescales in speech and music processing.” _Frontiers in Computational Neuroscience_ (2022). https://www.frontiersin.org/articles/10.3389/fncom.2022.872093/abstract 
 - **Sitek, K.R.**, Calabrese, E., Johnson, G.A., Ghosh, S.S., Chandrasekaran, B. [Structural connectivity of human inferior colliculus subdivisions using in vivo and post mortem diffusion MRI tractography](https://www.frontiersin.org/articles/10.3389/fnins.2022.751595/full). _Frontiers in Neuroscience_ (2022).
 - P Truong, JH Kim, R Savjani, **KR Sitek**, G Hagberg, K Scheffler, D Ress. [Depth relationships and measures of tissue thickness in dorsal midbrain](https://doi.org/10.1002/hbm.25185). _Human Brain Mapping_ (2020).
