@@ -1,9 +1,12 @@
 # Publications
 For an up-to-date publication list, see [Google Scholar](https://scholar.google.com/citations?hl=en&user=fNPFNhsAAAAJ).
 
+## Preprints
+ - **Sitek, K.R.**, Helou, L.B., Chandrasekaran, B. [Auditory corticostriatal connections in the human brain](https://doi.org/10.1101/2022.08.04.502679). _bioarXiv_ (2022 preprint).
+- Fan, J., **Sitek, K.R.**, Chandrasekaran, B., Sarkar, A. [Bayesian Tensor Factorized Mixed Effects Vector Autoregressive Processes for Inferring Granger Causality Patterns from High-Dimensional Neuroimage Data](https://doi.org/10.48550/arXiv.2206.10757). _arXiv_ (2022 preprint).
+
 ## Peer-reviewed publications
-- Fan, J., **Sitek, K.R.**, Chandrasekaran, B., Sarkar, A. [Bayesian Tensor Factorized Mixed Effects Vector Autoregressive Processes for Inferring Granger Causality Patterns from High-Dimensional Neuroimage Data.](https://doi.org/10.48550/arXiv.2206.10757) _arXiv_ (2022 preprint).
-- Gnanateja, G.N., Devaraju, D.S., Heyne, M., Quique, Y.M., **Sitek, K.R.**, Tardif, M.C., Tessmer, R., Dial, H.R. “On the role of neural oscillations across timescales in speech and music processing.” _Frontiers in Computational Neuroscience_ (2022). https://www.frontiersin.org/articles/10.3389/fncom.2022.872093/abstract 
+- Gnanateja, G.N., Devaraju, D.S., Heyne, M., Quique, Y.M., **Sitek, K.R.**, Tardif, M.C., Tessmer, R., Dial, H.R. [On the role of neural oscillations across timescales in speech and music processing](https://doi.org/10.3389/fncom.2022.872093). _Frontiers in Computational Neuroscience_ (2022).
 - **Sitek, K.R.**, Calabrese, E., Johnson, G.A., Ghosh, S.S., Chandrasekaran, B. [Structural connectivity of human inferior colliculus subdivisions using in vivo and post mortem diffusion MRI tractography](https://www.frontiersin.org/articles/10.3389/fnins.2022.751595/full). _Frontiers in Neuroscience_ (2022).
 - P Truong, JH Kim, R Savjani, **KR Sitek**, G Hagberg, K Scheffler, D Ress. [Depth relationships and measures of tissue thickness in dorsal midbrain](https://doi.org/10.1002/hbm.25185). _Human Brain Mapping_ (2020).
 - **Sitek KR**, Gulban OF, Calabrese E, Johnson GA, Lage-Castellanos A, Moerel M, Ghosh SS, De Martino F. [Mapping the human subcortical auditory system using histology, postmortem MRI and in vivo MRI at 7T](https://doi.org/10.7554/eLife.48932). _eLife_ (2019).
