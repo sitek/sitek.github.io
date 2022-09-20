@@ -2,8 +2,10 @@
 For an up-to-date publication list, see [Google Scholar](https://scholar.google.com/citations?hl=en&user=fNPFNhsAAAAJ).
 
 ## Preprints
- - **Sitek, K.R.**, Helou, L.B., Chandrasekaran, B. [Auditory corticostriatal connections in the human brain](https://doi.org/10.1101/2022.08.04.502679). _bioarXiv_ (2022 preprint).
+ - **Sitek, K.R.**, Helou, L.B., Chandrasekaran, B. [Auditory corticostriatal connections in the human brain](https://doi.org/10.1101/2022.08.04.502679). _bioaRxiv_ (2022 preprint).
 - Fan, J., **Sitek, K.R.**, Chandrasekaran, B., Sarkar, A. [Bayesian Tensor Factorized Mixed Effects Vector Autoregressive Processes for Inferring Granger Causality Patterns from High-Dimensional Neuroimage Data](https://doi.org/10.48550/arXiv.2206.10757). _arXiv_ (2022 preprint).
+- **Sitek, K.R.**\*, Chandra, N.K.\*, Sarkar, A., Chandrasekaran, B. [Functional connectivity across the human subcortical auditory system using a Gaussian copula graphical model approach with partial correlations](https://doi.org/10.1101/2022.09.15.508099). _bioRxiv_ (2022 preprint). 
+
 
 ## Peer-reviewed publications
 - Gnanateja, G.N., Devaraju, D.S., Heyne, M., Quique, Y.M., **Sitek, K.R.**, Tardif, M.C., Tessmer, R., Dial, H.R. [On the role of neural oscillations across timescales in speech and music processing](https://doi.org/10.3389/fncom.2022.872093). _Frontiers in Computational Neuroscience_ (2022).
