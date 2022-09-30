@@ -1,5 +1,20 @@
 # Research interests
 
+## Brain networks underlying human communication
+### Corticostriatal pathways enabling auditory decision-making and speech category learning
+Auditory decision making critically depends upon structural connections between superior temporal cortex and dorsal striatum. Auditory corticostriatal connections have been mapped in animal models including non-human primates, where primary auditory cortex preferentially connects to putamen while caudate head receives most of its inputs from anterior superior temporal cortex. Using a publicly available high-quality, high-resolution human diffusion-weighted MRI dataset, we identified structural connectivity streamlines between auditory cortical regions and dorsal striatal regions that suggest a privileged route from speech-related auditory cortex to posterior putamen ([Sitek, Helou, and Chandrasekaran, 2022 preprint](https://doi.org/10.1101/2022.08.04.502679)).
+![Image](./images/Sitek_corticostriatal_endpoints.png)
+
+### Auditory category representations across the brain
+Dorsal striatum has a clear role for auditory behavior in animal models, but its involvement in human communication is poorly understood. Using ultra-high field 7T MRI, we are acquiring 1.5 mm isotropic resolution BOLD functional MRI from participants who categorized Mandarin speech stimuli on the basis of dynamically varying pitch patterns. With multivariate pattern analysis, we find that dorsal striatum strongly predicts the stimulus category in native Mandarin speakers but is less accurate in Mandarin-naive participants. Overall, our work demonstrates prioritized connectivity between superior temporal cortex and putamen and is highly suggestive of distinct functional roles for striatal subdivisions in auditory speech categorization.
+
+### Mapping the human subcortical auditory system
+The computational power of the brain comes from its incredible interconnectedness. To study brain connectivity in living humans, we can estimate structural connectivity using diffusion-weighted MRI tractography, and we can estimate functional connectivity using functional MRI. I used tractography to map the subcortical auditory system in both typical participants and in a post mortem sample ([Sitek & Gulban et al., 2019](https://doi.org/10.7554/eLife.48932)).
+![Image](./images/KevinSitek_postmortem-human-brainstem_auditory-tractography.png)
+
+### Characterizing whole-brain connectivity in persistent developmental stuttering
+To study whole-brain connectivity in persistent developmental stuttering, I used both tractography and functional connectivity and found that long-range functional connectivity between orbitofrontal cortex and cerebellum was strongly negatively correlated with stuttering severity in adults ([Sitek et al., 2016](https://doi.org/10.3389/fnhum.2016.00190)).
+
 ## Anatomy of the human brainstem
 ### Post mortem imaging of subcortical auditory structures
 Much of our knowledge of the brainstem comes from research conducted in animal models. While a lot of brainstem anatomy is the same across mammals, there are species-specific anatomy features that are difficult to study in humans due to technical challenges. I have used state-of-the-art imaging techniques of post mortem human brains to bridge the gap between animal models and research with typical human participants. With Faruk Gulban and others, I published the first publicly available 3-D atlases of human auditory brainstem structures based on post mortem MRI and histology ([Sitek & Gulban et al., 2019](https://doi.org/10.7554/eLife.48932)).
@@ -13,11 +28,6 @@ To learn more about brainstem anatomy in living humans, I have used "quantitativ
 
 In future work, I will quantify anatomical tissue properties in human brainstem within individual structures (for instance, in the layers of the superior colliculus).
 
-## Brain connectivity underlying human communication
-The computational power of the brain comes from its incredible interconnectedness. To study brain connectivity in living humans, we can estimate structural connectivity using diffusion-weighted MRI tractography, and we can estimate functional connectivity using functional MRI. I used tractography to map the subcortical auditory system in both typical participants and in a post mortem sample ([Sitek & Gulban et al., 2019](https://doi.org/10.7554/eLife.48932)).
-![Image](./images/KevinSitek_postmortem-human-brainstem_auditory-tractography.png)
-
-To study whole brain connectivity in persistent developmental stuttering, I used both tractography and functional connectivity and found that long-range functional connectivity between orbitofrontal cortex and cerebellum was strongly negatively correlated with stuttering severity in adults ([Sitek et al., 2016](https://doi.org/10.3389/fnhum.2016.00190)).
 
 ## Neural processing of complex sensory stimuli
 ### Auditory processing of our own speech
