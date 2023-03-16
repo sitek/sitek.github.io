@@ -18,6 +18,10 @@ For an up-to-date publication list, see [Google Scholar](https://scholar.google.
 - **Sitek KR**, Mathalon DH, Roach BJ, Houde JF, Niziolek CA, Ford JM. [Auditory cortex processes variation in our own speech](https://doi.org/10.1371/journal.pone.0082925). _PloS one_ (2013).
 
 ## Conference proceedings and abstracts
+- Ara, A., Provias, V., Metz, A., **Sitek, K.R.**, Coffey, E.B.J., Zatorre, R.J. “Different cortical and subcortical responses to violations of top-down and bottom-up auditory predictions measured with 7T functional MRI.” Poster accepted for the Annual Meeting of the Organization for Human Brain Mapping, Montréal, July 2023.
+- **K. R. Sitek**, B. Chandrasekaran. “Mapping the connectivity of auditory cortex with diffusion MRI tractography.” Poster presented at the 2023 Meeting of the American Auditory Society, Scottsdale, AZ, March 2023.
+- Llanos, F., Feng, G., Sitek, K. R., Chandrasekaran, B. “Higher-Dimensional Neural Representations Predict Better Speech Category Learning and Native Language Experience.” Poster presented at the 2023 ARO MidWinter Meeting, February 11, 2023.
+- Gnanateja GN, **Sitek KR**, Parida S, Sadagopan S, Chandrasekaran B. Stimulus Feature Decoding using Frequency Following Responses. Poster presented at the Association for Research in Otolaryngology MidWinter Meeting (2023).
 - **Sitek KR** & Gulban OF. Vasculature mapping in human superior and inferior colliculus. In _28th Annual Meeting of the Organization for Human Brain Mapping_ (2022).
 -  Gnanateja, G. N.\*, **Sitek, K. R.\***, Llanos, F., and Chandrasekaran, B. (2022). Cross-Modal Approach to Studying FFRs in a Representational Similarity Analysis Framework. Poster presented at the FFR Workshop, Barcelona, Spain, June 6–8, 2022.
 - **Sitek K**, Asma Q, Molla F, Hagberg G, Kim JH, Scheffler K, Himmelbach M, Ress D. [Somatovisual processing in the deep layers of the human superior colliculus](https://ww4.aievolution.com/hbm2001/index.cfm?do=abs.viewAbs&abs=3074). In _26th Annual Meeting of the Organization for Human Brain Mapping_ (2020).
