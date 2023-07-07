@@ -1,7 +1,7 @@
 # About me
-I am a research scientist at the [University of Pittsburgh](https://www.shrs.pitt.edu/people/kevin-r-sitek), where I study the brain regions and connections that underlie human perception and communication in the [SoundBrain Lab](https://www.shrs.pitt.edu/csd/research/sound-brain-lab/sound-brain-lab-members).
+I am a Research Assistant Professor at Northwestern University in the Department of Communication Sciences and Disorders, where I study the brain regions and connections that underlie human perception and communication in the [SoundBrain Lab](https://www.shrs.pitt.edu/csd/research/sound-brain-lab/sound-brain-lab-members). Until June 2023, I was a research scientist at the [University of Pittsburgh](https://www.shrs.pitt.edu/people/kevin-r-sitek)
 
-I'm involved in the Organization for Human Brain Mapping community as blog writer and podcast editor with the Communications Committee, also serving as the Diversity and Inclusivity Committee liaison.
+I'm involved in the Organization for Human Brain Mapping community as [Communications Committee](https://www.ohbmbrainmappingblog.com) Chair-elect and Blog Team Lead.
 
 I received my PhD in 2019 from Harvard University's [Program in Speech and Hearing Bioscience and Technology](http://dms.hms.harvard.edu/shbt/), where I was mentored by [Dr. Satra Ghosh](http://satra.cogitatum.org/) at the [McGovern Institute for Brain Research](https://mcgovern.mit.edu/) at MIT.
 
