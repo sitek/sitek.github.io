@@ -1,5 +1,5 @@
 # About me
-I am a Research Assistant Professor at Northwestern University in the Department of Communication Sciences and Disorders, where I study the brain regions and connections that underlie human perception and communication in the [SoundBrain Lab](https://www.shrs.pitt.edu/csd/research/sound-brain-lab/sound-brain-lab-members). Until June 2023, I was a research scientist at the [University of Pittsburgh](https://www.shrs.pitt.edu/people/kevin-r-sitek)
+I am a Research Assistant Professor at Northwestern University in the Department of Communication Sciences and Disorders, where I study the brain regions and connections that underlie human perception and communication in the [SoundBrain Lab](https://www.shrs.pitt.edu/csd/research/sound-brain-lab/sound-brain-lab-members). Until June 2023, I was a research scientist at the [University of Pittsburgh](https://www.shrs.pitt.edu/people/kevin-r-sitek).
 
 I'm involved in the Organization for Human Brain Mapping community as [Communications Committee](https://www.ohbmbrainmappingblog.com) Chair-elect and Blog Team Lead.
 
