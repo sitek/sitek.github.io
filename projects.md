@@ -26,11 +26,11 @@ We are currently examining vasculature in the human dorsal midbrain (superior co
 ### Brainstem tissue properties in typical human participants
 To learn more about brainstem anatomy in living humans, I have used "quantitative" MRI methods to estimate specific brain tissue properties ([Sitek & Ghosh, 2020 OHBM poster](https://twitter.com/krsitek/status/1275806156095709185?s=20)). Tissue characteristics were consistent across individuals and within individuals across different sessions, demonstrating the applicability of quantitative MRI in studying the human brainstem.
 
-In future work, I will quantify anatomical tissue properties in human brainstem within individual structures (for instance, in the layers of the superior colliculus).
+In future work, I will quantify anatomical tissue properties in human brainstem within individual structures (for instance, in the subdivisions of the inferior colliculus).
 
 
 ## Neural processing of complex sensory stimuli
-### Auditory processing of our own speech
+### Auditory processing of our own speech and self-generated sounds
 While we speak, our brains are not only generating the motor commands for speech—they're also listening to the sounds we're creating to make sure we're saying what we intended to say. This processing is accentuated when the auditory feedback given to the participant is altered to be different from what was produced, but we wanted to know if it varies based on the natural variability of speech production. I looked at the brain's natural electrical signals using EEG during speech production and playback and found that auditory cortex is more active when a repeated utterance is very different from the previous example of that utterance ([Sitek et al., 2013](https://doi.org/10.1371/journal.pone.0082925)).
 
 ![Image](./images/Sitek2013_Fig1.png)
