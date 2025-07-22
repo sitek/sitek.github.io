@@ -11,10 +11,10 @@ Science requires communication—our work only has an impact when it's shared wi
 
 ## Organization for Human Brain Mapping (OHBM)
 - OHBM Communications Committee Member, 2021–2025
-- - Chair, 2023–24
-- - Blog Team Lead, 2022–2023
+    - Chair, 2023–24
+    - Blog Team Lead, 2022–2023
 - Student–Postdoc Special Interest Group, 2019–2021
-- - Social Media and Communications Lead
+    - Social Media and Communications Lead
 
 ### Neurosalience, the OHBM podcast
 Podcast Team co-founder and editor, 2021–22
