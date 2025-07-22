@@ -37,12 +37,12 @@ Podcast Team co-founder and editor, 2021–22
 ## YouTube appearances
 - [Two MIT Neuroscientists Explain Yanny vs. Laurel](https://youtu.be/zaAdNbOTSWY) (with Dana Boebinger)
 
+## Media appearances
+[These Scientists Set out to Build a Silent Room, But Discovered Something Way More Terrifying](https://www.popularmechanics.com/science/a64838062/anechoic-chamber-silence-fear/)  Claire Maldarelli, *Popular Mechanics* (quotes and background)
+
 ## Science in the News
 Public science outreach by Harvard University PhD students
 - Social Media Outreach Lead, 2015–2019
 - Editor, Science in the News Blog, 2013–2018
 - Author, [Can Computers Use Brain Scans to Diagnose Psychiatric Disorders?](http://sitn.hms.harvard.edu/flash/2016/can-computers-use-brain-scans-to-diagnose-psychiatric-disorders/)
 - Co-Lead Editor, [Neuroscience Special Edition](http://sitn.hms.harvard.edu/special-edition-neurotechnology/)
-
-## Media appearances
-[These Scientists Set out to Build a Silent Room, But Discovered Something Way More Terrifying](https://www.popularmechanics.com/science/a64838062/anechoic-chamber-silence-fear/)  Claire Maldarelli, *Popular Mechanics* (quotes and background)
