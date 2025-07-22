@@ -43,3 +43,6 @@ Public science outreach by Harvard University PhD students
 - Editor, Science in the News Blog, 2013–2018
 - Author, [Can Computers Use Brain Scans to Diagnose Psychiatric Disorders?](http://sitn.hms.harvard.edu/flash/2016/can-computers-use-brain-scans-to-diagnose-psychiatric-disorders/)
 - Co-Lead Editor, [Neuroscience Special Edition](http://sitn.hms.harvard.edu/special-edition-neurotechnology/)
+
+## Media appearances
+[These Scientists Set out to Build a Silent Room, But Discovered Something Way More Terrifying](https://www.popularmechanics.com/science/a64838062/anechoic-chamber-silence-fear/)  Claire Maldarelli, *Popular Mechanics* (quotes and background)
