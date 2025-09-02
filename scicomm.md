@@ -10,6 +10,8 @@ Science requires communication—our work only has an impact when it's shared wi
 **Northwestern University CSD 550-3: Communicating Science.** Why do we share our research? How do we best communicate research with different audiences? What are best practices in oral, written, visual, and multimedia communication? This course helps Northwestern PhD students craft their own scientific narrative and develop communication skills for sharing their work with diverse audiences.
 
 ## Organization for Human Brain Mapping (OHBM)
+I first attended OHBM in 2025 and have attended almost every meeting since then. I got involved with the [Student–Postdoc Special Interest Group](https://www.ohbmtrainees.com) in 2019, helping share the cool mentorship and training work being organized by our students and postdocs. Later, I joined the [Communications Committee](http://ohbm-com.com/), where I edited (and sometimes appeared in) podcasts and blogs, maintained the burgeoning OHBMonthly member newsletter, and helped kick off a new annual award winner blog series and a [quarterly newsletter in collaboration with The Transmitter](https://www.thetransmitter.org/newsletters-alerts/) from the Simons Foundation.
+
 - OHBM Communications Committee Member, 2021–2025
     - Chair, 2023–24
     - Blog Team Lead, 2022–2023
@@ -22,7 +24,7 @@ Podcast Team co-founder and editor, 2021–22
 ### Neurosalience podcast appearances
 - [S5E13](https://youtu.be/NnEr4iNd3tI?si=eqe4XGV-B0WokXmH): OHBM 2025 preview with Jean Chen, Marta Garrido, Michael Breakspear, and Lena Oestreich (co-hosted by Kevin Sitek)
 - [S4E19](https://www.ohbm-com.com/podcast/v/lwbyep6a3aba2g72ezxzgjjxk84syr): A Preview of OHBM 2024 in Seoul with Sofie Valk, Kevin Sitek, and Hae-Jeong Park
-- [S3E09](https://www.ohbm-com.com/podcast/v/wp9xzwsyjymkb6c2pbendbrbxesaz7): An interview with OHBM's Comcom
+- [S3E09](https://www.ohbm-com.com/podcast/v/wp9xzwsyjymkb6c2pbendbrbxesaz7): An interview with OHBM's ComCom
 - [S2E20](https://www.ohbm-com.com/podcast/v/9zs755gcm4dadtr2hs5wn9c53d6ph9): Turning the microphone around on Peter Bandettini (guest hosted by Kevin Sitek)
 
 ### OHBM Blog author
@@ -41,7 +43,7 @@ Podcast Team co-founder and editor, 2021–22
 [These Scientists Set out to Build a Silent Room, But Discovered Something Way More Terrifying](https://www.popularmechanics.com/science/a64838062/anechoic-chamber-silence-fear/)  Claire Maldarelli, *Popular Mechanics* (quotes and background)
 
 ## Science in the News
-Public science outreach by Harvard University PhD students
+In grad school, I got involved in sharing science beyond the lab through [Science in the News](https://sites.harvard.edu/sitn/), a public science outreach program led by Harvard University PhD students. Throughout my time with SITN, I edited blog posts by grad students for the general public and eventually took over the Twitter page, regularly compressing 1000 word blog posts down to 140 (and then 280) characters—while (hopefully) staying interesting! 
 - Social Media Outreach Lead, 2015–2019
 - Editor, Science in the News Blog, 2013–2018
 - Author, [Can Computers Use Brain Scans to Diagnose Psychiatric Disorders?](http://sitn.hms.harvard.edu/flash/2016/can-computers-use-brain-scans-to-diagnose-psychiatric-disorders/)
