@@ -2,7 +2,7 @@
 Science requires communication—our work only has an impact when it's shared with others. Starting in my PhD, I have been involved in science communication focusing on both general and scientific audiences.
 
 ## Publications and preprints
-- **Sitek, KR**, Wearn, A, DuPre, EM. Communication is the foundation of an impactful and resilient scientific community. (submitted) 
+- **Sitek, KR**, Wearn, A, DuPre, EM. Communication is the foundation of an impactful and resilient scientific community. *Aperture Neuro* (accepted).
 - Wearn A, **Sitek KR**, Valk SL, Forkel SJ. [The Organization for Human Brain Mapping Time Machine: A freely accessible archive of Annual Meeting talks on YouTube](https://doi.org/10.52294/001c.138647). *Aperture Neuro*. 2025;5(SI 2). doi:10.52294/​001c.138647
 
 
