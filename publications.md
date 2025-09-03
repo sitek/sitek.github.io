@@ -2,12 +2,12 @@
 For an up-to-date publication list, see my [Google Scholar](https://scholar.google.com/citations?hl=en&user=fNPFNhsAAAAJ) profile.
 
 ## Preprints/submitted
-- **Sitek, K.R.**, Wearn, A., DuPre, E.M. Communication is the foundation of an impactful and resilient scientific community. (submitted) 
 - **Sitek, K.R.**, Helou, L.B., Chandrasekaran, B. [Auditory corticostriatal connections in the human brain](https://doi.org/10.1101/2022.08.04.502679). _bioRxiv_ (2022 preprint).
 - Fan, J., **Sitek, K.R.**, Chandrasekaran, B., Sarkar, A. [Bayesian Tensor Factorized Mixed Effects Vector Autoregressive Processes for Inferring Granger Causality Patterns from High-Dimensional Neuroimage Data](https://doi.org/10.48550/arXiv.2206.10757). _arXiv_ (2022 preprint).
 
 
 ## Peer-reviewed publications
+- **Sitek, K.R.**, Wearn, A., DuPre, E.M. Communication is the foundation of an impactful and resilient scientific community. *Aperture Neuro* (accepted).
 - Wearn A, **Sitek KR**, Valk SL, Forkel SJ. [The Organization for Human Brain Mapping Time Machine: A freely accessible archive of Annual Meeting talks on YouTube](https://doi.org/10.52294/001c.138647). *Aperture Neuro*. 2025;5(SI 2). doi:10.52294/​001c.138647
 - Chandra, N.K.\*, **Sitek, K.R.**\*, Sarkar, A., Chandrasekaran, B. [Functional connectivity across the human subcortical auditory system using an autoregressive matrix-Gaussian copula graphical model approach with partial correlations](https://doi.org/10.1162/imag_a_00258). _Imaging Neuroscience_ (2024). (\*: equal contributions)
 - Ara, A., Provias, V., **Sitek, K.R.**, Coffey, E., Zatorre, R. [Cortical-subcortical interactions to violations of auditory predictions measured with 7T functional MRI.](https://doi.org/10.1093/cercor/bhae316) *Cerebral Cortex* (2024).
