@@ -421,8 +421,10 @@ cv:
 
 design:
   theme: classic
-  entries:
+  sections:
     show_time_spans_in: []
+  templates:
+    single_date: YEAR
   page:
     top_margin: "2cm"
     bottom_margin: "2cm"
