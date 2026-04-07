@@ -465,11 +465,12 @@
 
 // Print connections:
 #let connections-list = (
-  [Chicago, IL],
   [#box(original-link("mailto:kevin.sitek@northwestern.edu")[kevin.sitek\@northwestern.edu])],
   [#box(original-link("https://sitek.github.io/")[sitek.github.io])],
   [#box(original-link("https://scholar.google.com/citations?user=fNPFNhsAAAAJ")[Google Scholar])],
+  [#box(original-link("https://orcid.org/0000-0002-2172-5786")[0000-0002-2172-5786])],
   [#box(original-link("https://github.com/sitek")[GitHub\/sitek])],
+  [#box(original-link("https://bsky.app/profile/sitek.bsky.social")[Bluesky \(sitek.bsky.social\)])],
   [#box(original-link("https://fediscience.org/@sitek")[Mastodon \(\@sitek\@fediscience.org\)])],
 )
 #connections(connections-list)
@@ -549,7 +550,7 @@
     #strong[University of Pittsburgh], Research Scientist
     #v(-design-text-leading)
 
-    #v(design-highlights-top-margin);#highlights([Department of Communication Science and Disorders],[SoundBrain Lab \(PI: Bharath Chandrasekaran\)],)
+    #v(design-highlights-top-margin);#highlights([Department of Communication Science and Disorders],[SoundBrain Lab \(PI: Bharath Chandrasekaran, PhD\)],)
   ],
   right-content: [
     Pittsburgh, PA
@@ -609,7 +610,7 @@
     #strong[San Francisco VA Medical Center \/ NCIRE], Staff Research Assistant I\/II
     #v(-design-text-leading)
 
-    #v(design-highlights-top-margin);#highlights([Brain Imaging and EEG Laboratory],)
+    #v(design-highlights-top-margin);#highlights([Brain Imaging and EEG Laboratory \(PIs: Judith Ford, PhD; Daniel Mathalon, PhD, MD\)],)
   ],
   right-content: [
     San Francisco, CA
@@ -624,7 +625,7 @@
     #strong[UC Berkeley Department of Linguistics], Undergraduate\/Staff Research Assistant
     #v(-design-text-leading)
 
-    #v(design-highlights-top-margin);#highlights([Phonology Laboratory \(PI: Keith Johnson\)],)
+    #v(design-highlights-top-margin);#highlights([Phonology Laboratory \(PI: Keith Johnson, PhD\)],)
   ],
   right-content: [
     Berkeley, CA
@@ -936,7 +937,7 @@
     #strong[Communicating Science \(CSD 550-3\)]
   ],
   right-content: [
-    2024
+    2024, 2025
   ],
 )
 #one-col-entry(
@@ -966,7 +967,7 @@
     #strong[Guest Lectures]
   ],
   right-content: [
-    2015
+    2016
   ],
 )
 #one-col-entry(

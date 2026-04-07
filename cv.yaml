@@ -5,8 +5,12 @@ cv:
   social_networks:
     - network: Google Scholar
       username: fNPFNhsAAAAJ
+    - network: ORCID
+      username: 0000-0002-2172-5786
     - network: GitHub
       username: sitek
+    - network: Bluesky
+      username: sitek.bsky.social
     - network: Mastodon
       username: "@sitek@fediscience.org"
 
@@ -44,7 +48,7 @@ cv:
         end_date: 2023
         highlights:
           - "Department of Communication Science and Disorders"
-          - "SoundBrain Lab (PI: Bharath Chandrasekaran)"
+          - "SoundBrain Lab (PI: Bharath Chandrasekaran, PhD)"
       - company: University of Pittsburgh
         position: Postdoctoral Associate
         location: Pittsburgh, PA
@@ -72,14 +76,14 @@ cv:
         start_date: 2011
         end_date: 2013
         highlights:
-          - "Brain Imaging and EEG Laboratory"
+          - "Brain Imaging and EEG Laboratory (PIs: Judith Ford, PhD; Daniel Mathalon, PhD, MD)"
       - company: UC Berkeley Department of Linguistics
         position: Undergraduate/Staff Research Assistant
         location: Berkeley, CA
         start_date: 2009
         end_date: 2011
         highlights:
-          - "Phonology Laboratory (PI: Keith Johnson)"
+          - "Phonology Laboratory (PI: Keith Johnson, PhD)"
 
     grants:
       - name: "Auditory–motor interactions in neural processing and the frequency-following response"

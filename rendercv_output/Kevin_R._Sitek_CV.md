@@ -1,10 +1,11 @@
 # Kevin R. Sitek's CV
 
 - Email: [kevin.sitek@northwestern.edu](mailto:kevin.sitek@northwestern.edu)
-- Location: Chicago, IL
 - Website: [sitek.github.io](https://sitek.github.io/)
 - Google Scholar: [fNPFNhsAAAAJ](https://scholar.google.com/citations?user=fNPFNhsAAAAJ)
+- ORCID: [0000-0002-2172-5786](https://orcid.org/0000-0002-2172-5786)
 - GitHub: [sitek](https://github.com/sitek)
+- Bluesky: [sitek.bsky.social](https://bsky.app/profile/sitek.bsky.social)
 - Mastodon: [@sitek@fediscience.org](https://fediscience.org/@sitek)
 
 
@@ -36,7 +37,7 @@
 - 2021 – 2023
 - Pittsburgh, PA
 - Department of Communication Science and Disorders
-- SoundBrain Lab (PI: Bharath Chandrasekaran)
+- SoundBrain Lab (PI: Bharath Chandrasekaran, PhD)
 
 ## University of Pittsburgh, Postdoctoral Associate
 
@@ -60,13 +61,13 @@
 
 - 2011 – 2013
 - San Francisco, CA
-- Brain Imaging and EEG Laboratory
+- Brain Imaging and EEG Laboratory (PIs: Judith Ford, PhD; Daniel Mathalon, PhD, MD)
 
 ## UC Berkeley Department of Linguistics, Undergraduate/Staff Research Assistant
 
 - 2009 – 2011
 - Berkeley, CA
-- Phonology Laboratory (PI: Keith Johnson)
+- Phonology Laboratory (PI: Keith Johnson, PhD)
 
 # Grants
 
@@ -180,7 +181,7 @@
 
 ## Communicating Science (CSD 550-3)
 
-- 2024–
+- 2024, 2025
 - Instructor of Record (Adjunct), Northwestern University
 - Graduate PhD course: oral, written, visual, and multimedia science communication
 
@@ -191,7 +192,7 @@
 
 ## Guest Lectures
 
-- 2015–
+- 2016—
 - Subcortical Auditory Anatomy — Pitt CSD 2110 (Neuroscience of Communication)
 - Subcortical Contributions to Language — UT Dallas (Brain & Language)
 - Subcortical Auditory Anatomy and Human Function — Pitt CSD 1024 (Anatomy & Physiology of Hearing)
@@ -294,11 +295,11 @@
 
 ## Aperture Neuro Editorial Review Board
 
-- 2026–
+- 2026—
 
 ## Frontiers in Language Sciences Review Editor
 
-- 2022–
+- 2022—
 
 ## Science in the News (Harvard)
 
