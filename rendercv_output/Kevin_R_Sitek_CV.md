@@ -1,0 +1,316 @@
+# Kevin R. Sitek's CV
+
+- Email: [kevin.sitek@northwestern.edu](mailto:kevin.sitek@northwestern.edu)
+- Location: Chicago, IL
+- Website: [sitek.github.io](https://sitek.github.io/)
+- Google Scholar: [fNPFNhsAAAAJ](https://scholar.google.com/citations?user=fNPFNhsAAAAJ)
+- GitHub: [sitek](https://github.com/sitek)
+- Mastodon: [@sitek@fediscience.org](https://fediscience.org/@sitek)
+
+
+# Education
+
+## Harvard University, PhD in Speech and Hearing Bioscience and Technology
+
+- 2013 – 2019
+- Division of Medical Sciences, Harvard–MIT Program
+- Advisor: Satrajit S. Ghosh, PhD (MIT McGovern Institute)
+- Dissertation: [Mapping the Human Subcortical Auditory System With MRI](https://dash.harvard.edu/handle/1/42013097)
+
+## University of California, Berkeley, BA in Linguistics (Honors) and Cognitive Science
+
+- 2007 – 2011
+- Honors thesis on phonetic context effects; advisor: Keith Johnson, PhD
+
+# Experience
+
+## Northwestern University, Research Assistant Professor
+
+- 2023 – present
+- Evanston, IL
+- Department of Communication Sciences and Disorders
+- Affiliated Faculty: Cognitive Science; Northwestern University Interdepartmental Neuroscience (NUIN)
+
+## University of Pittsburgh, Research Scientist
+
+- 2021 – 2023
+- Pittsburgh, PA
+- Department of Communication Science and Disorders
+- SoundBrain Lab (PI: Bharath Chandrasekaran)
+
+## University of Pittsburgh, Postdoctoral Associate
+
+- 2021 – 2021
+- Pittsburgh, PA
+- Department of Communication Science and Disorders
+
+## Baylor College of Medicine, Postdoctoral Associate
+
+- 2019 – 2021
+- Houston, TX
+- Department of Neuroscience
+
+## MIT McGovern Institute for Brain Research, Graduate Student Researcher
+
+- 2014 – 2019
+- Cambridge, MA
+- Gabrieli Laboratory
+
+## San Francisco VA Medical Center / NCIRE, Staff Research Assistant I/II
+
+- 2011 – 2013
+- San Francisco, CA
+- Brain Imaging and EEG Laboratory
+
+## UC Berkeley Department of Linguistics, Undergraduate/Staff Research Assistant
+
+- 2009 – 2011
+- Berkeley, CA
+- Phonology Laboratory (PI: Keith Johnson)
+
+# Grants
+
+## Auditory–motor interactions in neural processing and the frequency-following response
+
+- 2025–2028
+- NIH NIDCD ECR R21 · Grant: 1R21DC022906-01
+- Role: Principal Investigator
+- Co-Investigators: Bharath Chandrasekaran, PhD; Peer Herholz, Dr. rer. nat.
+
+## High-resolution functional imaging of speech-induced sensory modulation
+
+- 2024–2028
+- NIH NIDCD R01 · Grant: R01 DC020963-01A1
+- Role: Co-Investigator (PI: Jason W. Bohland, PhD)
+
+## Investigating human non-lemniscal inferior colliculus contributions to auditory learning with 7T MRI
+
+- 2022–2027
+- NIH NIDCD K01 Mentored Career Development Award · Grant: K01 DC019421-01A1
+- Role: Principal Investigator
+- Co-Mentors: Bharath Chandrasekaran, PhD; Tamer Ibrahim, PhD; Srivatsun Sadagopan, PhD
+
+## Administrative Supplement — K01 DC019421
+
+- 2025–2026
+- NIH NIDCD Administrative Supplement · Grant: 3K01DC019421-05S1
+- Role: Principal Investigator
+
+## Cortical-subcortical interactions in auditory cognition
+
+- 2023–2028
+- CIHR Project Grant
+- Role: Collaborator (PI: Robert Zatorre, PhD)
+
+## Subcortical auditory feedback mechanisms in speech: Function and structure
+
+- 2016–2018
+- NIH NIDCD F31 NRSA Predoctoral Fellowship · Grant: F31 DC015695-01 (completed)
+- Role: Principal Investigator
+- Sponsor: Satrajit S. Ghosh, PhD; Co-Sponsor: John D. E. Gabrieli, PhD
+
+# Publications
+
+## Mapping Whole-Brain Auditory Activation with 3T Multi-Echo fMRI at the Group and Individual-Subject Level ([10.1016/j.heares.2026.109622](https://doi.org/10.1016/j.heares.2026.109622))
+- 2026
+- Medina, M.C., Reddy, N.H., **Sitek, K.R.**, Bright, M.G.
+- Hearing Research
+
+## Communication is the foundation of an impactful and resilient scientific community ([10.52294/001c.143510](https://doi.org/10.52294/001c.143510))
+- 2025
+- **Sitek, K.R.**, Wearn, A., DuPre, E.M.
+- Aperture Neuro 2025;5(SI 3)
+
+## The Organization for Human Brain Mapping Time Machine: A freely accessible archive of Annual Meeting talks on YouTube ([10.52294/001c.138647](https://doi.org/10.52294/001c.138647))
+- 2025
+- Wearn, A., **Sitek, K.R.**, Valk, S.L., Forkel, S.J.
+- Aperture Neuro 2025;5(SI 2)
+
+## Functional connectivity across the human subcortical auditory system using an autoregressive matrix-Gaussian copula graphical model approach with partial correlations ([10.1162/imag_a_00258](https://doi.org/10.1162/imag_a_00258))
+- 2024
+- Chandra, N.K.*, **Sitek, K.R.***, Sarkar, A., Chandrasekaran, B.
+- Imaging Neuroscience
+
+## Cortical-subcortical interactions to violations of auditory predictions measured with 7T functional MRI ([10.1093/cercor/bhae316](https://doi.org/10.1093/cercor/bhae316))
+- 2024
+- Ara, A., Provias, V., **Sitek, K.R.**, Coffey, E., Zatorre, R.
+- Cerebral Cortex
+
+## On the role of neural oscillations across timescales in speech and music processing ([10.3389/fncom.2022.872093](https://doi.org/10.3389/fncom.2022.872093))
+- 2022
+- Gnanateja, G.N., Devaraju, D.S., Heyne, M., Quique, Y.M., **Sitek, K.R.**, Tardif, M.C., Tessmer, R., Dial, H.R.
+- Frontiers in Computational Neuroscience
+
+## Structural connectivity of human inferior colliculus subdivisions using in vivo and post mortem diffusion MRI tractography ([10.3389/fnins.2022.751595](https://doi.org/10.3389/fnins.2022.751595))
+- 2022
+- **Sitek, K.R.**, Calabrese, E., Johnson, G.A., Ghosh, S.S., Chandrasekaran, B.
+- Frontiers in Neuroscience
+
+## Depth relationships and measures of tissue thickness in dorsal midbrain ([10.1002/hbm.25185](https://doi.org/10.1002/hbm.25185))
+- 2020
+- Truong, P., Kim, J.H., Savjani, R., **Sitek, K.R.**, Hagberg, G., Scheffler, K., Ress, D.
+- Human Brain Mapping
+
+## Mapping the human subcortical auditory system using histology, postmortem MRI and in vivo MRI at 7T ([10.7554/eLife.48932](https://doi.org/10.7554/eLife.48932))
+- 2019
+- **Sitek, K.R.***, Gulban, O.F.*, Calabrese, E., Johnson, G.A., Lage-Castellanos, A., Moerel, M., Ghosh, S.S.†, De Martino, F.†
+- eLife
+
+## Alterations in the inferior longitudinal fasciculus in autism and associations with visual processing: a diffusion-weighted MRI study ([10.1186/s13229-018-0188-6](https://doi.org/10.1186/s13229-018-0188-6))
+- 2018
+- Boets, B., Van Eylen, L., **Sitek, K.**, Moors, P., Noens, I., Steyaert, J., Sunaert, S., Wagemans, J.
+- Molecular Autism
+
+## Diffusion tensor imaging of central auditory pathways in patients with sensorineural hearing loss: a systematic review ([10.1177/0194599817739838](https://doi.org/10.1177/0194599817739838))
+- 2018
+- Tarabichi, O., Kozin, E.D., Kanumuri, V.V., Barber, S., Ghosh, S., **Sitek, K.R.**, Reinshagen, K., Herrmann, B., Remenschneider, A.K., Lee, D.J.
+- Otolaryngology–Head and Neck Surgery
+
+## Decreased cerebellar-orbitofrontal connectivity correlates with stuttering severity: whole-brain functional and structural connectivity associations with persistent developmental stuttering ([10.3389/fnhum.2016.00190](https://doi.org/10.3389/fnhum.2016.00190))
+- 2016
+- **Sitek, K.R.**, Cai, S., Beal, D.S., Perkell, J.S., Guenther, F.H., Ghosh, S.S.
+- Frontiers in Human Neuroscience
+
+## Auditory cortex processes variation in our own speech ([10.1371/journal.pone.0082925](https://doi.org/10.1371/journal.pone.0082925))
+- 2013
+- **Sitek, K.R.**, Mathalon, D.H., Roach, B.J., Houde, J.F., Niziolek, C.A., Ford, J.M.
+- PLoS ONE
+
+# Teaching
+
+## Communicating Science (CSD 550-3)
+
+- 2024–
+- Instructor of Record (Adjunct), Northwestern University
+- Graduate PhD course: oral, written, visual, and multimedia science communication
+
+## Speech Communication (6.541/HST.710/SHBT 204)
+
+- 2015, 2016
+- Graduate Teaching Assistant, MIT / Harvard University
+
+## Guest Lectures
+
+- 2015–
+- Subcortical Auditory Anatomy — Pitt CSD 2110 (Neuroscience of Communication)
+- Subcortical Contributions to Language — UT Dallas (Brain & Language)
+- Subcortical Auditory Anatomy and Human Function — Pitt CSD 1024 (Anatomy & Physiology of Hearing)
+- Acoustic Phonetics: Vowels (2016)
+
+# Mentorship
+
+## PhD Students
+
+- Michelle Medina, Biomedical Engineering, Northwestern (2024–)
+- Serena Mon, Communication Sciences and Disorders, Northwestern (2023–2024)
+
+## Doctor of Audiology
+
+- Laura Cahalan, University of Pittsburgh (Capstone Research Project)
+
+## Undergraduate Research Assistants
+
+- Max Chen, BA Cognitive Science, Northwestern (2025–)
+- Gabrielle Butler, BA Cognitive Science, Northwestern (2024–2025; honors thesis)
+- Amp Kangusmrith, BA Cognitive Science, Northwestern (2024–)
+- Angelina Dinardo, BA CSD, University of Pittsburgh
+- Madison Andreano, BA CSD, University of Pittsburgh
+- Olivia Flemm, BA CSD, University of Pittsburgh
+
+## High School Research Assistants
+
+- Leo Chen (2025)
+- Karen Linares Mendoza (2022)
+
+# Awards and Honors
+
+## Aperture Neuro Best Reviewer Award
+
+- 2025
+- Organization for Human Brain Mapping, Brisbane, Australia
+
+## ASHA Lessons for Success
+
+- 2023
+- Accepted participant
+
+## OHBM Merit Award
+
+- 2020
+
+## Harvard Brain Science Initiative Young Scientist Travel Award
+
+- 2018
+
+## Mass. Eye and Ear Amelia Peabody Scholarship
+
+- 2017–2018
+
+## OHBM Hackathon Travel Award
+
+- 2017
+- Vancouver, BC
+
+## Neurohackweek / Neurohackademy
+
+- 2017
+- Accepted participant, Seattle, WA
+
+## Certificate of Distinction in Teaching
+
+- 2015
+- Harvard University, Derek Bok Center for Teaching and Learning
+
+# Service
+
+## Admissions Committee, Northwestern Interdepartmental Neuroscience PhD Program
+
+- 2025–
+
+## ASHA Convention Topic Committee: Hearing, Balance, Tinnitus
+
+- 2024, 2025
+
+## Undergraduate Studies Committee, Northwestern CSD
+
+- 2023–2025
+
+## Organization for Human Brain Mapping, Communications Committee
+
+- 2021–2025
+- Past Chair (2024–2025)
+- Chair (2023–2024)
+- Chair-Elect / Blog Team Lead (2022–2023)
+- Podcast Team co-founder and editor (2021–2022)
+
+## Organization for Human Brain Mapping, Student–Postdoc Special Interest Group
+
+- 2019–2021
+- Social Media and Communications Lead
+
+## SCAN Moderator
+
+- 2021–2023
+
+## Aperture Neuro Editorial Review Board
+
+- 2026–
+
+## Frontiers in Language Sciences Review Editor
+
+- 2022–
+
+## Science in the News (Harvard)
+
+- 2013–2019
+- Social Media Outreach Lead (2015–2019)
+- Editor, Science in the News Blog (2013–2018)
+
+## BrainHack Boston Organizing Committee
+
+- 2017
+
+## SMALL Journal Club Co-founder
+
+- 2016–2019
+
