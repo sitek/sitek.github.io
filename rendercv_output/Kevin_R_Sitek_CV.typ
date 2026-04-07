@@ -1,5 +1,5 @@
 
-#import "@preview/fontawesome:0.5.0": fa-icon
+#import "@preview/fontawesome:0.6.0": fa-icon
 
 #let name = "Kevin R Sitek"
 #let locale-catalog-page-numbering-style = context { "Kevin R Sitek - Page " + str(here().page()) + " of " + str(counter(page).final().first()) + "" }
@@ -20,14 +20,14 @@
 #let design-section-titles-vertical-space-above = 0.5cm
 #let design-section-titles-vertical-space-below = 0.3cm
 #let design-section-titles-small-caps = false
-#let design-links-use-external-link-icon = false
+#let design-links-use-external-link-icon = true
 #let design-text-font-size = 10pt
 #let design-text-leading = 0.6em
 #let design-text-font-family = "Source Sans 3"
 #let design-text-alignment = "justified"
 #let design-text-date-and-location-column-alignment = right
 #let design-header-photo-width = 3.5cm
-#let design-header-use-icons-for-connections = false
+#let design-header-use-icons-for-connections = true
 #let design-header-name-font-family = "Source Sans 3"
 #let design-header-name-font-size = 30pt
 #let design-header-name-bold = true
@@ -35,7 +35,7 @@
 #let design-header-connections-font-family = "Source Sans 3"
 #let design-header-vertical-space-between-name-and-connections = 0.7cm
 #let design-header-vertical-space-between-connections-and-first-section = 0.7cm
-#let design-header-use-icons-for-connections = false
+#let design-header-use-icons-for-connections = true
 #let design-header-horizontal-space-between-connections = 0.5cm
 #let design-header-separator-between-connections = ""
 #let design-header-alignment = center
@@ -465,13 +465,14 @@
 
 // Print connections:
 #let connections-list = (
-  [#box(original-link("mailto:kevin.sitek@northwestern.edu")[kevin.sitek\@northwestern.edu])],
-  [#box(original-link("https://sitek.github.io/")[sitek.github.io])],
-  [#box(original-link("https://scholar.google.com/citations?user=fNPFNhsAAAAJ")[Google Scholar])],
-  [#box(original-link("https://orcid.org/0000-0002-2172-5786")[0000-0002-2172-5786])],
-  [#box(original-link("https://github.com/sitek")[GitHub\/sitek])],
-  [#box(original-link("https://bsky.app/profile/sitek.bsky.social")[Bluesky \(sitek.bsky.social\)])],
-  [#box(original-link("https://fediscience.org/@sitek")[Mastodon \(\@sitek\@fediscience.org\)])],
+  [#box(original-link("mailto:kevin.sitek@northwestern.edu")[#fa-icon("envelope", size: 0.9em) #h(0.05cm)kevin.sitek\@northwestern.edu])],
+  [#box(original-link("https://sitek.github.io/")[#fa-icon("link", size: 0.9em) #h(0.05cm)sitek.github.io])],
+  [#box(original-link("https://scholar.google.com/citations?user=fNPFNhsAAAAJ")[#fa-icon("graduation-cap", size: 0.9em) #h(0.05cm)Google Scholar])],
+  [#box(original-link("https://orcid.org/0000-0002-2172-5786")[#fa-icon("orcid", size: 0.9em) #h(0.05cm)0000-0002-2172-5786])],
+  [#box(original-link("https://researchgate.net/profile/Kevin-Sitek")[#fa-icon("researchgate", size: 0.9em) #h(0.05cm)Kevin-Sitek])],
+  [#box(original-link("https://github.com/sitek")[#fa-icon("github", size: 0.9em) #h(0.05cm)GitHub\/sitek])],
+  [#box(original-link("https://bsky.app/profile/sitek.bsky.social")[#fa-icon("cloud", size: 0.9em) #h(0.05cm)Bluesky \(sitek.bsky.social\)])],
+  [#box(original-link("https://fediscience.org/@sitek")[#fa-icon("mastodon", size: 0.9em) #h(0.05cm)Mastodon \(\@sitek\@fediscience.org\)])],
 )
 #connections(connections-list)
 
@@ -550,7 +551,7 @@
     #strong[University of Pittsburgh], Research Scientist
     #v(-design-text-leading)
 
-    #v(design-highlights-top-margin);#highlights([Department of Communication Science and Disorders],[SoundBrain Lab \(Director: Bharath Chandrasekaran, PhD\)],)
+    #v(design-highlights-top-margin);#highlights([Department of Communication Science and Disorders],[SoundBrain Lab \(PI: Bharath Chandrasekaran, PhD\)],)
   ],
   right-content: [
     Pittsburgh, PA
@@ -565,7 +566,7 @@
     #strong[University of Pittsburgh], Postdoctoral Associate
     #v(-design-text-leading)
 
-    #v(design-highlights-top-margin);#highlights([Department of Communication Science and Disorders],)
+    #v(design-highlights-top-margin);#highlights([Department of Communication Science and Disorders],[SoundBrain Lab \(PI: Bharath Chandrasekaran, PhD\)],)
   ],
   right-content: [
     Pittsburgh, PA
@@ -580,7 +581,7 @@
     #strong[Baylor College of Medicine], Postdoctoral Associate
     #v(-design-text-leading)
 
-    #v(design-highlights-top-margin);#highlights([Department of Neuroscience],)
+    #v(design-highlights-top-margin);#highlights([Department of Neuroscience],[High Resolution Brain Imaging Lab \(PI: David Ress, PhD\)],)
   ],
   right-content: [
     Houston, TX

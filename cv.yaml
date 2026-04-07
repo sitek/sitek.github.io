@@ -8,6 +8,8 @@ cv:
       username: fNPFNhsAAAAJ
     - network: ORCID
       username: 0000-0002-2172-5786
+    - network: ResearchGate
+      username: Kevin-Sitek
     - network: GitHub
       username: sitek
     - network: Bluesky
@@ -50,7 +52,7 @@ cv:
         end_date: 2023
         highlights:
           - "Department of Communication Science and Disorders"
-          - "SoundBrain Lab (Director: Bharath Chandrasekaran, PhD)"
+          - "SoundBrain Lab (PI: Bharath Chandrasekaran, PhD)"
       - company: University of Pittsburgh
         position: Postdoctoral Associate
         location: Pittsburgh, PA
@@ -58,6 +60,7 @@ cv:
         end_date: 2021
         highlights:
           - "Department of Communication Science and Disorders"
+          - "SoundBrain Lab (PI: Bharath Chandrasekaran, PhD)"
       - company: Baylor College of Medicine
         position: Postdoctoral Associate
         location: Houston, TX
@@ -65,6 +68,7 @@ cv:
         end_date: 2021
         highlights:
           - "Department of Neuroscience"
+          - "High Resolution Brain Imaging Lab (PI: David Ress, PhD)"
       - company: MIT McGovern Institute for Brain Research
         position: Graduate Student Researcher
         location: Cambridge, MA
@@ -417,10 +421,8 @@ cv:
 
 design:
   theme: classic
-  links:
-    use_external_link_icon: false
-  header:
-    use_icons_for_connections: false
+  entries:
+    show_time_spans_in: []
   page:
     top_margin: "2cm"
     bottom_margin: "2cm"

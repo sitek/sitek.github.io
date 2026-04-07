@@ -4,6 +4,7 @@
 - Website: [sitek.github.io](https://sitek.github.io/)
 - Google Scholar: [fNPFNhsAAAAJ](https://scholar.google.com/citations?user=fNPFNhsAAAAJ)
 - ORCID: [0000-0002-2172-5786](https://orcid.org/0000-0002-2172-5786)
+- ResearchGate: [Kevin-Sitek](https://researchgate.net/profile/Kevin-Sitek)
 - GitHub: [sitek](https://github.com/sitek)
 - Bluesky: [sitek.bsky.social](https://bsky.app/profile/sitek.bsky.social)
 - Mastodon: [@sitek@fediscience.org](https://fediscience.org/@sitek)
@@ -38,19 +39,21 @@
 - 2021 – 2023
 - Pittsburgh, PA
 - Department of Communication Science and Disorders
-- SoundBrain Lab (Director: Bharath Chandrasekaran, PhD)
+- SoundBrain Lab (PI: Bharath Chandrasekaran, PhD)
 
 ## University of Pittsburgh, Postdoctoral Associate
 
 - 2021 – 2021
 - Pittsburgh, PA
 - Department of Communication Science and Disorders
+- SoundBrain Lab (PI: Bharath Chandrasekaran, PhD)
 
 ## Baylor College of Medicine, Postdoctoral Associate
 
 - 2019 – 2021
 - Houston, TX
 - Department of Neuroscience
+- High Resolution Brain Imaging Lab (PI: David Ress, PhD)
 
 ## MIT McGovern Institute for Brain Research, Graduate Student Researcher
 
