@@ -14,7 +14,7 @@
 
 - 2013 – 2019
 - Division of Medical Sciences, Harvard–MIT Program
-- Advisor: Satrajit S. Ghosh, PhD (MIT McGovern Institute)
+- Advisor: Satrajit S. Ghosh, PhD
 - Dissertation: [Mapping the Human Subcortical Auditory System With MRI](https://dash.harvard.edu/handle/1/42013097)
 
 ## University of California, Berkeley, BA in Linguistics (Honors) and Cognitive Science

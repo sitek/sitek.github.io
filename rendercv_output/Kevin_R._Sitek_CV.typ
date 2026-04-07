@@ -20,14 +20,14 @@
 #let design-section-titles-vertical-space-above = 0.5cm
 #let design-section-titles-vertical-space-below = 0.3cm
 #let design-section-titles-small-caps = false
-#let design-links-use-external-link-icon = true
+#let design-links-use-external-link-icon = false
 #let design-text-font-size = 10pt
 #let design-text-leading = 0.6em
 #let design-text-font-family = "Source Sans 3"
 #let design-text-alignment = "justified"
 #let design-text-date-and-location-column-alignment = right
 #let design-header-photo-width = 3.5cm
-#let design-header-use-icons-for-connections = true
+#let design-header-use-icons-for-connections = false
 #let design-header-name-font-family = "Source Sans 3"
 #let design-header-name-font-size = 30pt
 #let design-header-name-bold = true
@@ -35,7 +35,7 @@
 #let design-header-connections-font-family = "Source Sans 3"
 #let design-header-vertical-space-between-name-and-connections = 0.7cm
 #let design-header-vertical-space-between-connections-and-first-section = 0.7cm
-#let design-header-use-icons-for-connections = true
+#let design-header-use-icons-for-connections = false
 #let design-header-horizontal-space-between-connections = 0.5cm
 #let design-header-separator-between-connections = ""
 #let design-header-alignment = center
@@ -465,12 +465,12 @@
 
 // Print connections:
 #let connections-list = (
-  [#fa-icon("location-dot", size: 0.9em) #h(0.05cm)Chicago, IL],
-  [#box(original-link("mailto:kevin.sitek@northwestern.edu")[#fa-icon("envelope", size: 0.9em) #h(0.05cm)kevin.sitek\@northwestern.edu])],
-  [#box(original-link("https://sitek.github.io/")[#fa-icon("link", size: 0.9em) #h(0.05cm)sitek.github.io])],
-  [#box(original-link("https://scholar.google.com/citations?user=fNPFNhsAAAAJ")[#fa-icon("graduation-cap", size: 0.9em) #h(0.05cm)Google Scholar])],
-  [#box(original-link("https://github.com/sitek")[#fa-icon("github", size: 0.9em) #h(0.05cm)sitek])],
-  [#box(original-link("https://fediscience.org/@sitek")[#fa-icon("mastodon", size: 0.9em) #h(0.05cm)\@sitek\@fediscience.org])],
+  [Chicago, IL],
+  [#box(original-link("mailto:kevin.sitek@northwestern.edu")[kevin.sitek\@northwestern.edu])],
+  [#box(original-link("https://sitek.github.io/")[sitek.github.io])],
+  [#box(original-link("https://scholar.google.com/citations?user=fNPFNhsAAAAJ")[Google Scholar])],
+  [#box(original-link("https://github.com/sitek")[GitHub\/sitek])],
+  [#box(original-link("https://fediscience.org/@sitek")[Mastodon \(\@sitek\@fediscience.org\)])],
 )
 #connections(connections-list)
 
@@ -493,7 +493,7 @@
 #block(
   [
     #set par(spacing: 0pt)
-    #v(design-highlights-top-margin);#highlights([Division of Medical Sciences, Harvard–MIT Program],[Advisor: Satrajit S. Ghosh, PhD \(MIT McGovern Institute\)],[Dissertation: #link("https://dash.harvard.edu/handle/1/42013097")[Mapping the Human Subcortical Auditory System With MRI]],)
+    #v(design-highlights-top-margin);#highlights([Division of Medical Sciences, Harvard–MIT Program],[Advisor: Satrajit S. Ghosh, PhD],[Dissertation: #link("https://dash.harvard.edu/handle/1/42013097")[Mapping the Human Subcortical Auditory System With MRI]],)
   ],
   inset: (
     left: design-entry-types-education-entry-degree-column-width + design-entries-horizontal-space-between-columns + design-entries-left-and-right-margin,

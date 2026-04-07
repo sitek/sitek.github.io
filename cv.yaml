@@ -1,6 +1,5 @@
 cv:
   name: Kevin R. Sitek
-  location: Chicago, IL
   email: kevin.sitek@northwestern.edu
   website: https://sitek.github.io
   social_networks:
@@ -20,7 +19,7 @@ cv:
         end_date: 2019
         highlights:
           - "Division of Medical Sciences, Harvard–MIT Program"
-          - "Advisor: Satrajit S. Ghosh, PhD (MIT McGovern Institute)"
+          - "Advisor: Satrajit S. Ghosh, PhD"
           - "Dissertation: [Mapping the Human Subcortical Auditory System With MRI](https://dash.harvard.edu/handle/1/42013097)"
       - institution: University of California, Berkeley
         area: Linguistics (Honors) and Cognitive Science
@@ -268,7 +267,7 @@ cv:
 
     teaching:
       - name: "Communicating Science (CSD 550-3)"
-        date: "2024–"
+        date: "2024, 2025"
         highlights:
           - "Instructor of Record (Adjunct), Northwestern University"
           - "Graduate PhD course: oral, written, visual, and multimedia science communication"
@@ -277,7 +276,7 @@ cv:
         highlights:
           - "Graduate Teaching Assistant, MIT / Harvard University"
       - name: "Guest Lectures"
-        date: "2015–"
+        date: "2016—"
         highlights:
           - "Subcortical Auditory Anatomy — Pitt CSD 2110 (Neuroscience of Communication)"
           - "Subcortical Contributions to Language — UT Dallas (Brain & Language)"
@@ -358,9 +357,9 @@ cv:
       - name: "SCAN Moderator"
         date: "2021–2023"
       - name: "Aperture Neuro Editorial Review Board"
-        date: "2026–"
+        date: "2026—"
       - name: "Frontiers in Language Sciences Review Editor"
-        date: "2022–"
+        date: "2022—"
       - name: "Science in the News (Harvard)"
         date: "2013–2019"
         highlights:
@@ -377,6 +376,10 @@ rendercv_settings:
 
 design:
   theme: classic
+  links:
+    use_external_link_icon: false
+  header:
+    use_icons_for_connections: false
   page:
     top_margin: "2cm"
     bottom_margin: "2cm"
