@@ -1,10 +1,11 @@
-# Kevin R. Sitek's CV
+# Kevin R Sitek's CV
 
 - Email: [kevin.sitek@northwestern.edu](mailto:kevin.sitek@northwestern.edu)
-- Location: Chicago, IL
 - Website: [sitek.github.io](https://sitek.github.io/)
 - Google Scholar: [fNPFNhsAAAAJ](https://scholar.google.com/citations?user=fNPFNhsAAAAJ)
+- ORCID: [0000-0002-2172-5786](https://orcid.org/0000-0002-2172-5786)
 - GitHub: [sitek](https://github.com/sitek)
+- Bluesky: [sitek.bsky.social](https://bsky.app/profile/sitek.bsky.social)
 - Mastodon: [@sitek@fediscience.org](https://fediscience.org/@sitek)
 
 
@@ -14,13 +15,14 @@
 
 - 2013 – 2019
 - Division of Medical Sciences, Harvard–MIT Program
-- Advisor: Satrajit S. Ghosh, PhD (MIT McGovern Institute)
+- Advisor: Satrajit S. Ghosh, PhD
 - Dissertation: [Mapping the Human Subcortical Auditory System With MRI](https://dash.harvard.edu/handle/1/42013097)
 
 ## University of California, Berkeley, BA in Linguistics (Honors) and Cognitive Science
 
 - 2007 – 2011
-- Honors thesis on phonetic context effects; advisor: Keith Johnson, PhD
+- Advisor: Keith Johnson, PhD
+- Linguistics honors thesis: Phonetic context effects in ipsilateral and contralateral conditions
 
 # Experience
 
@@ -29,14 +31,14 @@
 - 2023 – present
 - Evanston, IL
 - Department of Communication Sciences and Disorders
-- Affiliated Faculty: Cognitive Science; Northwestern University Interdepartmental Neuroscience (NUIN)
+- Affiliated Faculty: Cognitive Science Program; Northwestern University Interdepartmental Neuroscience (NUIN) PhD Program
 
 ## University of Pittsburgh, Research Scientist
 
 - 2021 – 2023
 - Pittsburgh, PA
 - Department of Communication Science and Disorders
-- SoundBrain Lab (PI: Bharath Chandrasekaran)
+- SoundBrain Lab (Director: Bharath Chandrasekaran, PhD)
 
 ## University of Pittsburgh, Postdoctoral Associate
 
@@ -60,13 +62,13 @@
 
 - 2011 – 2013
 - San Francisco, CA
-- Brain Imaging and EEG Laboratory
+- Brain Imaging and EEG Laboratory (PIs: Judith Ford, PhD; Daniel Mathalon, PhD, MD)
 
 ## UC Berkeley Department of Linguistics, Undergraduate/Staff Research Assistant
 
 - 2009 – 2011
 - Berkeley, CA
-- Phonology Laboratory (PI: Keith Johnson)
+- Phonology Laboratory (PI: Keith Johnson, PhD)
 
 # Grants
 
@@ -108,6 +110,26 @@
 - NIH NIDCD F31 NRSA Predoctoral Fellowship · Grant: F31 DC015695-01 (completed)
 - Role: Principal Investigator
 - Sponsor: Satrajit S. Ghosh, PhD; Co-Sponsor: John D. E. Gabrieli, PhD
+
+# Submitted Manuscripts and Preprints
+
+## Distinct 7T functional MRI response patterns to stimulus, response, and feedback across dorsal striatum during auditory learning 
+- in revision
+- **Sitek, K.R.**, Roark, C.L., Helou, L.B., Chandrasekaran, B.
+
+## The recognition and comprehension of speech sound patterns show a mechanistic dissociation along the ventral and dorsal streams 
+- in review
+- Llanos, F., **Sitek, K.R.**, Feng, G., Chandrasekaran, B.
+
+## Auditory corticostriatal connections in the human brain ([10.1101/2022.08.04.502679](https://doi.org/10.1101/2022.08.04.502679))
+- in revision
+- **Sitek, K.R.**, Helou, L.B., Chandrasekaran, B.
+- bioRxiv
+
+## Bayesian Tensor Factorized Mixed Effects Vector Autoregressive Processes for Inferring Granger Causality Patterns from High-Dimensional Neuroimage Data ([10.48550/arXiv.2206.10757](https://doi.org/10.48550/arXiv.2206.10757))
+- 2022
+- Fan, J., **Sitek, K.R.**, Chandrasekaran, B., Sarkar, A.
+- arXiv
 
 # Publications
 
@@ -180,29 +202,31 @@
 
 ## Communicating Science (CSD 550-3)
 
-- 2024–
+- 2024, 2025
 - Instructor of Record (Adjunct), Northwestern University
 - Graduate PhD course: oral, written, visual, and multimedia science communication
 
-## Speech Communication (6.541/HST.710/SHBT 204)
+## Speech Communication (MIT 6.541/HST.710/SHBT 204)
 
 - 2015, 2016
-- Graduate Teaching Assistant, MIT / Harvard University
+- Graduate Teaching Assistant, MIT/Harvard University
 
 ## Guest Lectures
 
-- 2015–
+- 2016—present
+- Auditory Cognitive Neuroscience — Northwestern CSD 366 (Cognitive Science Proseminar)
 - Subcortical Auditory Anatomy — Pitt CSD 2110 (Neuroscience of Communication)
 - Subcortical Contributions to Language — UT Dallas (Brain & Language)
 - Subcortical Auditory Anatomy and Human Function — Pitt CSD 1024 (Anatomy & Physiology of Hearing)
-- Acoustic Phonetics: Vowels (2016)
+- Acoustic Phonetics: Vowels — Harvard SHBT 204 (Speech Communication)
 
 # Mentorship
 
 ## PhD Students
 
-- Michelle Medina, Biomedical Engineering, Northwestern (2024–)
-- Serena Mon, Communication Sciences and Disorders, Northwestern (2023–2024)
+- Laura Raiff, Biomedical Engineering, Northwestern (2026–present; lead advisor, dissertation advisory committee)
+- Michelle Medina, Biomedical Engineering, Northwestern (2024–present; dissertation advisory committee)
+- Serena Mon, Communication Sciences and Disorders, Northwestern (2023–2024; qualifying exam committee)
 
 ## Doctor of Audiology
 
@@ -210,17 +234,17 @@
 
 ## Undergraduate Research Assistants
 
-- Max Chen, BA Cognitive Science, Northwestern (2025–)
+- Max Chen, BA Cognitive Science, Northwestern (2025–present; FFRPREP contributor)
 - Gabrielle Butler, BA Cognitive Science, Northwestern (2024–2025; honors thesis)
-- Amp Kangusmrith, BA Cognitive Science, Northwestern (2024–)
-- Angelina Dinardo, BA CSD, University of Pittsburgh
-- Madison Andreano, BA CSD, University of Pittsburgh
-- Olivia Flemm, BA CSD, University of Pittsburgh
+- Amp Kangusmrith, BA Cognitive Science, Northwestern (2024–present; Independent Study in Cognitive Science)
+- Angelina Dinardo, BA CSD, University of Pittsburgh (Completed MS in Speech Language Pathology at Northeastern University)
+- Madison Andreano, BA CSD, University of Pittsburgh (Completed her MS in Speech Language Pathology at the University of Minnesota)
+- Olivia Flemm, BA CSD, University of Pittsburgh (Completed her AuD at the University of Pittsburgh)
 
 ## High School Research Assistants
 
-- Leo Chen (2025)
-- Karen Linares Mendoza (2022)
+- Leo Chen (2025, Northwestern University; FFRPREP contributor)
+- Karen Linares Mendoza (2022, University of Pittsburgh; Now pursuing undergraduate studies at Johns Hopkins University)
 
 # Awards and Honors
 
@@ -263,9 +287,22 @@
 
 # Service
 
-## Admissions Committee, Northwestern Interdepartmental Neuroscience PhD Program
+## *Aperture Neuro* Editorial Review Board
 
-- 2025–
+- 2026—present
+
+## *Frontiers in Language Sciences* Review Editor
+
+- 2022—present
+
+## Ad hoc reviewer
+
+- Journals: *Aperture Neuro, Brain & Language, Brain Structure and Function, Cerebral Cortex, Frontiers in Psychology, Heliyon, Journal of the Association for Research in Otolaryngology, Journal of Neuroscience Research, Journal of Speech, Language, and Hearing Research, Molecular Genetics & Genomic Medicine, NeuroImage, Neuropsychologia, OHBM Abstract Submissions, PLOS ONE*
+- Granting agenncies: European Research Council, Swiss National Science Foundation
+
+## PhD Admissions Committee, Northwestern University Interdepartmental Neuroscience (NUIN) Program
+
+- 2025–2026
 
 ## ASHA Convention Topic Committee: Hearing, Balance, Tinnitus
 
@@ -281,24 +318,16 @@
 - Past Chair (2024–2025)
 - Chair (2023–2024)
 - Chair-Elect / Blog Team Lead (2022–2023)
-- Podcast Team co-founder and editor (2021–2022)
+- Podcast Team Co-founder and Editor (2021–2022)
 
 ## Organization for Human Brain Mapping, Student–Postdoc Special Interest Group
 
 - 2019–2021
 - Social Media and Communications Lead
 
-## SCAN Moderator
+## Society for Cognitive Auditory Neuroscience (SCAN) Moderator
 
 - 2021–2023
-
-## Aperture Neuro Editorial Review Board
-
-- 2026–
-
-## Frontiers in Language Sciences Review Editor
-
-- 2022–
 
 ## Science in the News (Harvard)
 
@@ -310,7 +339,7 @@
 
 - 2017
 
-## SMALL Journal Club Co-founder
+## SMALL Journal Club Co-founder and Organizer
 
 - 2016–2019
 

@@ -1,5 +1,6 @@
 cv:
-  name: Kevin R. Sitek
+  name: Kevin R Sitek
+  headline: Research Assistant Professor, Northwestern University
   email: kevin.sitek@northwestern.edu
   website: https://sitek.github.io
   social_networks:
@@ -31,7 +32,8 @@ cv:
         start_date: 2007
         end_date: 2011
         highlights:
-          - "Honors thesis on phonetic context effects; advisor: Keith Johnson, PhD"
+          - "Advisor: Keith Johnson, PhD"
+          - "Linguistics honors thesis: Phonetic context effects in ipsilateral and contralateral conditions"
 
     experience:
       - company: Northwestern University
@@ -40,7 +42,7 @@ cv:
         start_date: 2023
         highlights:
           - "Department of Communication Sciences and Disorders"
-          - "Affiliated Faculty: Cognitive Science; Northwestern University Interdepartmental Neuroscience (NUIN)"
+          - "Affiliated Faculty: Cognitive Science Program; Northwestern University Interdepartmental Neuroscience (NUIN) PhD Program"
       - company: University of Pittsburgh
         position: Research Scientist
         location: Pittsburgh, PA
@@ -48,7 +50,7 @@ cv:
         end_date: 2023
         highlights:
           - "Department of Communication Science and Disorders"
-          - "SoundBrain Lab (PI: Bharath Chandrasekaran, PhD)"
+          - "SoundBrain Lab (Director: Bharath Chandrasekaran, PhD)"
       - company: University of Pittsburgh
         position: Postdoctoral Associate
         location: Pittsburgh, PA
@@ -119,6 +121,39 @@ cv:
           - "NIH NIDCD F31 NRSA Predoctoral Fellowship · Grant: F31 DC015695-01 (completed)"
           - "Role: Principal Investigator"
           - "Sponsor: Satrajit S. Ghosh, PhD; Co-Sponsor: John D. E. Gabrieli, PhD"
+
+    submitted_manuscripts_and_preprints:
+      - title: "Distinct 7T functional MRI response patterns to stimulus, response, and feedback across dorsal striatum during auditory learning"
+        authors:
+          - "**Sitek, K.R.**"
+          - Roark, C.L.
+          - Helou, L.B.
+          - Chandrasekaran, B.
+        date: "in revision"
+      - title: "The recognition and comprehension of speech sound patterns show a mechanistic dissociation along the ventral and dorsal streams"
+        authors:
+          - Llanos, F.
+          - "**Sitek, K.R.**"
+          - Feng, G.
+          - Chandrasekaran, B.
+        date: "in review"
+      - title: "Auditory corticostriatal connections in the human brain"
+        authors:
+          - "**Sitek, K.R.**"
+          - Helou, L.B.
+          - Chandrasekaran, B.
+        journal: bioRxiv
+        doi: 10.1101/2022.08.04.502679
+        date: "in revision"
+      - title: "Bayesian Tensor Factorized Mixed Effects Vector Autoregressive Processes for Inferring Granger Causality Patterns from High-Dimensional Neuroimage Data"
+        authors:
+          - Fan, J.
+          - "**Sitek, K.R.**"
+          - Chandrasekaran, B.
+          - Sarkar, A.
+        journal: arXiv
+        doi: 10.48550/arXiv.2206.10757
+        date: "2022"
 
     publications:
       - title: "Mapping Whole-Brain Auditory Activation with 3T Multi-Echo fMRI at the Group and Individual-Subject Level"
@@ -275,24 +310,26 @@ cv:
         highlights:
           - "Instructor of Record (Adjunct), Northwestern University"
           - "Graduate PhD course: oral, written, visual, and multimedia science communication"
-      - name: "Speech Communication (6.541/HST.710/SHBT 204)"
+      - name: "Speech Communication (MIT 6.541/HST.710/SHBT 204)"
         date: "2015, 2016"
         highlights:
-          - "Graduate Teaching Assistant, MIT / Harvard University"
+          - "Graduate Teaching Assistant, MIT/Harvard University"
       - name: "Guest Lectures"
-        date: "2016—"
+        date: "2016—present"
         highlights:
+          - "Auditory Cognitive Neuroscience — Northwestern CSD 366 (Cognitive Science Proseminar)"
           - "Subcortical Auditory Anatomy — Pitt CSD 2110 (Neuroscience of Communication)"
           - "Subcortical Contributions to Language — UT Dallas (Brain & Language)"
           - "Subcortical Auditory Anatomy and Human Function — Pitt CSD 1024 (Anatomy & Physiology of Hearing)"
-          - "Acoustic Phonetics: Vowels (2016)"
+          - "Acoustic Phonetics: Vowels — Harvard SHBT 204 (Speech Communication)"
 
     mentorship:
       - name: "PhD Students"
         date: ""
         highlights:
-          - "Michelle Medina, Biomedical Engineering, Northwestern (2024–)"
-          - "Serena Mon, Communication Sciences and Disorders, Northwestern (2023–2024)"
+          - "Laura Raiff, Biomedical Engineering, Northwestern (2026–present; lead advisor, dissertation advisory committee)"
+          - "Michelle Medina, Biomedical Engineering, Northwestern (2024–present; dissertation advisory committee)"
+          - "Serena Mon, Communication Sciences and Disorders, Northwestern (2023–2024; qualifying exam committee)"
       - name: "Doctor of Audiology"
         date: ""
         highlights:
@@ -300,17 +337,17 @@ cv:
       - name: "Undergraduate Research Assistants"
         date: ""
         highlights:
-          - "Max Chen, BA Cognitive Science, Northwestern (2025–)"
+          - "Max Chen, BA Cognitive Science, Northwestern (2025–present; FFRPREP contributor)"
           - "Gabrielle Butler, BA Cognitive Science, Northwestern (2024–2025; honors thesis)"
-          - "Amp Kangusmrith, BA Cognitive Science, Northwestern (2024–)"
-          - "Angelina Dinardo, BA CSD, University of Pittsburgh"
-          - "Madison Andreano, BA CSD, University of Pittsburgh"
-          - "Olivia Flemm, BA CSD, University of Pittsburgh"
+          - "Amp Kangusmrith, BA Cognitive Science, Northwestern (2024–present; Independent Study in Cognitive Science)"
+          - "Angelina Dinardo, BA CSD, University of Pittsburgh (Completed MS in Speech Language Pathology at Northeastern University)"
+          - "Madison Andreano, BA CSD, University of Pittsburgh (Completed her MS in Speech Language Pathology at the University of Minnesota)"
+          - "Olivia Flemm, BA CSD, University of Pittsburgh (Completed her AuD at the University of Pittsburgh)"
       - name: "High School Research Assistants"
         date: ""
         highlights:
-          - "Leo Chen (2025)"
-          - "Karen Linares Mendoza (2022)"
+          - "Leo Chen (2025, Northwestern University; FFRPREP contributor)"
+          - "Karen Linares Mendoza (2022, University of Pittsburgh; Now pursuing undergraduate studies at Johns Hopkins University)"
 
     awards_and_honors:
       - name: "Aperture Neuro Best Reviewer Award"
@@ -341,8 +378,16 @@ cv:
           - "Harvard University, Derek Bok Center for Teaching and Learning"
 
     service:
-      - name: "Admissions Committee, Northwestern Interdepartmental Neuroscience PhD Program"
-        date: "2025–"
+      - name: "*Aperture Neuro* Editorial Review Board"
+        date: "2026—present"
+      - name: "*Frontiers in Language Sciences* Review Editor"
+        date: "2022—present"
+      - name: "Ad hoc reviewer"
+        highlights:
+          - "Journals: *Aperture Neuro, Brain & Language, Brain Structure and Function, Cerebral Cortex, Frontiers in Psychology, Heliyon, Journal of the Association for Research in Otolaryngology, Journal of Neuroscience Research, Journal of Speech, Language, and Hearing Research, Molecular Genetics & Genomic Medicine, NeuroImage, Neuropsychologia, OHBM Abstract Submissions, PLOS ONE*"
+          - "Granting agenncies: European Research Council, Swiss National Science Foundation"
+      - name: "PhD Admissions Committee, Northwestern University Interdepartmental Neuroscience (NUIN) Program"
+        date: "2025–2026"
       - name: "ASHA Convention Topic Committee: Hearing, Balance, Tinnitus"
         date: "2024, 2025"
       - name: "Undergraduate Studies Committee, Northwestern CSD"
@@ -353,17 +398,13 @@ cv:
           - "Past Chair (2024–2025)"
           - "Chair (2023–2024)"
           - "Chair-Elect / Blog Team Lead (2022–2023)"
-          - "Podcast Team co-founder and editor (2021–2022)"
+          - "Podcast Team Co-founder and Editor (2021–2022)"
       - name: "Organization for Human Brain Mapping, Student–Postdoc Special Interest Group"
         date: "2019–2021"
         highlights:
           - "Social Media and Communications Lead"
-      - name: "SCAN Moderator"
+      - name: "Society for Cognitive Auditory Neuroscience (SCAN) Moderator"
         date: "2021–2023"
-      - name: "Aperture Neuro Editorial Review Board"
-        date: "2026—"
-      - name: "Frontiers in Language Sciences Review Editor"
-        date: "2022—"
       - name: "Science in the News (Harvard)"
         date: "2013–2019"
         highlights:
@@ -371,12 +412,8 @@ cv:
           - "Editor, Science in the News Blog (2013–2018)"
       - name: "BrainHack Boston Organizing Committee"
         date: "2017"
-      - name: "SMALL Journal Club Co-founder"
+      - name: "SMALL Journal Club Co-founder and Organizer"
         date: "2016–2019"
-
-rendercv_settings:
-  render_command:
-    pdf_path: rendercv_output/Kevin_R_Sitek_CV.pdf
 
 design:
   theme: classic

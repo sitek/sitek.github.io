@@ -1,8 +1,8 @@
 
 #import "@preview/fontawesome:0.5.0": fa-icon
 
-#let name = "Kevin R. Sitek"
-#let locale-catalog-page-numbering-style = context { "Kevin R. Sitek - Page " + str(here().page()) + " of " + str(counter(page).final().first()) + "" }
+#let name = "Kevin R Sitek"
+#let locale-catalog-page-numbering-style = context { "Kevin R Sitek - Page " + str(here().page()) + " of " + str(counter(page).final().first()) + "" }
 #let locale-catalog-last-updated-date-style = "Last updated in Apr 2026"
 #let locale-catalog-language = "en"
 #let design-page-size = "us-letter"
@@ -20,14 +20,14 @@
 #let design-section-titles-vertical-space-above = 0.5cm
 #let design-section-titles-vertical-space-below = 0.3cm
 #let design-section-titles-small-caps = false
-#let design-links-use-external-link-icon = true
+#let design-links-use-external-link-icon = false
 #let design-text-font-size = 10pt
 #let design-text-leading = 0.6em
 #let design-text-font-family = "Source Sans 3"
 #let design-text-alignment = "justified"
 #let design-text-date-and-location-column-alignment = right
 #let design-header-photo-width = 3.5cm
-#let design-header-use-icons-for-connections = true
+#let design-header-use-icons-for-connections = false
 #let design-header-name-font-family = "Source Sans 3"
 #let design-header-name-font-size = 30pt
 #let design-header-name-bold = true
@@ -35,7 +35,7 @@
 #let design-header-connections-font-family = "Source Sans 3"
 #let design-header-vertical-space-between-name-and-connections = 0.7cm
 #let design-header-vertical-space-between-connections-and-first-section = 0.7cm
-#let design-header-use-icons-for-connections = true
+#let design-header-use-icons-for-connections = false
 #let design-header-horizontal-space-between-connections = 0.5cm
 #let design-header-separator-between-connections = ""
 #let design-header-alignment = center
@@ -461,16 +461,17 @@
   )
 ]
 
-= Kevin R. Sitek
+= Kevin R Sitek
 
 // Print connections:
 #let connections-list = (
-  [#fa-icon("location-dot", size: 0.9em) #h(0.05cm)Chicago, IL],
-  [#box(original-link("mailto:kevin.sitek@northwestern.edu")[#fa-icon("envelope", size: 0.9em) #h(0.05cm)kevin.sitek\@northwestern.edu])],
-  [#box(original-link("https://sitek.github.io/")[#fa-icon("link", size: 0.9em) #h(0.05cm)sitek.github.io])],
-  [#box(original-link("https://scholar.google.com/citations?user=fNPFNhsAAAAJ")[#fa-icon("graduation-cap", size: 0.9em) #h(0.05cm)Google Scholar])],
-  [#box(original-link("https://github.com/sitek")[#fa-icon("github", size: 0.9em) #h(0.05cm)sitek])],
-  [#box(original-link("https://fediscience.org/@sitek")[#fa-icon("mastodon", size: 0.9em) #h(0.05cm)\@sitek\@fediscience.org])],
+  [#box(original-link("mailto:kevin.sitek@northwestern.edu")[kevin.sitek\@northwestern.edu])],
+  [#box(original-link("https://sitek.github.io/")[sitek.github.io])],
+  [#box(original-link("https://scholar.google.com/citations?user=fNPFNhsAAAAJ")[Google Scholar])],
+  [#box(original-link("https://orcid.org/0000-0002-2172-5786")[0000-0002-2172-5786])],
+  [#box(original-link("https://github.com/sitek")[GitHub\/sitek])],
+  [#box(original-link("https://bsky.app/profile/sitek.bsky.social")[Bluesky \(sitek.bsky.social\)])],
+  [#box(original-link("https://fediscience.org/@sitek")[Mastodon \(\@sitek\@fediscience.org\)])],
 )
 #connections(connections-list)
 
@@ -493,7 +494,7 @@
 #block(
   [
     #set par(spacing: 0pt)
-    #v(design-highlights-top-margin);#highlights([Division of Medical Sciences, Harvard–MIT Program],[Advisor: Satrajit S. Ghosh, PhD \(MIT McGovern Institute\)],[Dissertation: #link("https://dash.harvard.edu/handle/1/42013097")[Mapping the Human Subcortical Auditory System With MRI]],)
+    #v(design-highlights-top-margin);#highlights([Division of Medical Sciences, Harvard–MIT Program],[Advisor: Satrajit S. Ghosh, PhD],[Dissertation: #link("https://dash.harvard.edu/handle/1/42013097")[Mapping the Human Subcortical Auditory System With MRI]],)
   ],
   inset: (
     left: design-entry-types-education-entry-degree-column-width + design-entries-horizontal-space-between-columns + design-entries-left-and-right-margin,
@@ -516,7 +517,7 @@
 #block(
   [
     #set par(spacing: 0pt)
-    #v(design-highlights-top-margin);#highlights([Honors thesis on phonetic context effects; advisor: Keith Johnson, PhD],)
+    #v(design-highlights-top-margin);#highlights([Advisor: Keith Johnson, PhD],[Linguistics honors thesis: Phonetic context effects in ipsilateral and contralateral conditions],)
   ],
   inset: (
     left: design-entry-types-education-entry-degree-column-width + design-entries-horizontal-space-between-columns + design-entries-left-and-right-margin,
@@ -534,7 +535,7 @@
     #strong[Northwestern University], Research Assistant Professor
     #v(-design-text-leading)
 
-    #v(design-highlights-top-margin);#highlights([Department of Communication Sciences and Disorders],[Affiliated Faculty: Cognitive Science; Northwestern University Interdepartmental Neuroscience \(NUIN\)],)
+    #v(design-highlights-top-margin);#highlights([Department of Communication Sciences and Disorders],[Affiliated Faculty: Cognitive Science Program; Northwestern University Interdepartmental Neuroscience \(NUIN\) PhD Program],)
   ],
   right-content: [
     Evanston, IL
@@ -549,7 +550,7 @@
     #strong[University of Pittsburgh], Research Scientist
     #v(-design-text-leading)
 
-    #v(design-highlights-top-margin);#highlights([Department of Communication Science and Disorders],[SoundBrain Lab \(PI: Bharath Chandrasekaran\)],)
+    #v(design-highlights-top-margin);#highlights([Department of Communication Science and Disorders],[SoundBrain Lab \(Director: Bharath Chandrasekaran, PhD\)],)
   ],
   right-content: [
     Pittsburgh, PA
@@ -609,7 +610,7 @@
     #strong[San Francisco VA Medical Center \/ NCIRE], Staff Research Assistant I\/II
     #v(-design-text-leading)
 
-    #v(design-highlights-top-margin);#highlights([Brain Imaging and EEG Laboratory],)
+    #v(design-highlights-top-margin);#highlights([Brain Imaging and EEG Laboratory \(PIs: Judith Ford, PhD; Daniel Mathalon, PhD, MD\)],)
   ],
   right-content: [
     San Francisco, CA
@@ -624,7 +625,7 @@
     #strong[UC Berkeley Department of Linguistics], Undergraduate\/Staff Research Assistant
     #v(-design-text-leading)
 
-    #v(design-highlights-top-margin);#highlights([Phonology Laboratory \(PI: Keith Johnson\)],)
+    #v(design-highlights-top-margin);#highlights([Phonology Laboratory \(PI: Keith Johnson, PhD\)],)
   ],
   right-content: [
     Berkeley, CA
@@ -726,6 +727,66 @@
     #v(design-highlights-top-margin);#highlights([NIH NIDCD F31 NRSA Predoctoral Fellowship · Grant: F31 DC015695-01 \(completed\)],[Role: Principal Investigator],[Sponsor: Satrajit S. Ghosh, PhD; Co-Sponsor: John D. E. Gabrieli, PhD],)
   ],
 )
+
+
+
+== Submitted Manuscripts and Preprints
+
+
+#two-col-entry(
+  left-content: [
+    #strong[Distinct 7T functional MRI response patterns to stimulus, response, and feedback across dorsal striatum during auditory learning]
+
+  ],
+  right-content: [
+    in revision
+  ],
+)
+#one-col-entry(content:[
+  #v(design-highlights-top-margin);#strong[Sitek, K.R.], Roark, C.L., Helou, L.B., Chandrasekaran, B])
+
+#v(design-entries-vertical-space-between-entries)
+#two-col-entry(
+  left-content: [
+    #strong[The recognition and comprehension of speech sound patterns show a mechanistic dissociation along the ventral and dorsal streams]
+
+  ],
+  right-content: [
+    in review
+  ],
+)
+#one-col-entry(content:[
+  #v(design-highlights-top-margin);Llanos, F., #strong[Sitek, K.R.], Feng, G., Chandrasekaran, B])
+
+#v(design-entries-vertical-space-between-entries)
+#two-col-entry(
+  left-content: [
+    #strong[Auditory corticostriatal connections in the human brain]
+
+  ],
+  right-content: [
+    in revision
+  ],
+)
+#one-col-entry(content:[
+#v(design-highlights-top-margin);#strong[Sitek, K.R.], Helou, L.B., Chandrasekaran, B.
+
+#v(design-highlights-top-margin - design-text-leading)#link("https://doi.org/10.1101/2022.08.04.502679")[10.1101/2022.08.04.502679] (bioRxiv)])
+
+#v(design-entries-vertical-space-between-entries)
+#two-col-entry(
+  left-content: [
+    #strong[Bayesian Tensor Factorized Mixed Effects Vector Autoregressive Processes for Inferring Granger Causality Patterns from High-Dimensional Neuroimage Data]
+
+  ],
+  right-content: [
+    2022
+  ],
+)
+#one-col-entry(content:[
+#v(design-highlights-top-margin);Fan, J., #strong[Sitek, K.R.], Chandrasekaran, B., Sarkar, A.
+
+#v(design-highlights-top-margin - design-text-leading)#link("https://doi.org/10.48550/arXiv.2206.10757")[10.48550/arXiv.2206.10757] (arXiv)])
 
 
 
@@ -936,7 +997,7 @@
     #strong[Communicating Science \(CSD 550-3\)]
   ],
   right-content: [
-    2024
+    2024, 2025
   ],
 )
 #one-col-entry(
@@ -948,7 +1009,7 @@
 #v(design-entries-vertical-space-between-entries)
 #two-col-entry(
   left-content: [
-    #strong[Speech Communication \(6.541\/HST.710\/SHBT 204\)]
+    #strong[Speech Communication \(MIT 6.541\/HST.710\/SHBT 204\)]
   ],
   right-content: [
     2015, 2016
@@ -956,7 +1017,7 @@
 )
 #one-col-entry(
   content: [
-    #v(design-highlights-top-margin);#highlights([Graduate Teaching Assistant, MIT \/ Harvard University],)
+    #v(design-highlights-top-margin);#highlights([Graduate Teaching Assistant, MIT\/Harvard University],)
   ],
 )
 
@@ -966,12 +1027,12 @@
     #strong[Guest Lectures]
   ],
   right-content: [
-    2015
+    2016—present
   ],
 )
 #one-col-entry(
   content: [
-    #v(design-highlights-top-margin);#highlights([Subcortical Auditory Anatomy — Pitt CSD 2110 \(Neuroscience of Communication\)],[Subcortical Contributions to Language — UT Dallas \(Brain & Language\)],[Subcortical Auditory Anatomy and Human Function — Pitt CSD 1024 \(Anatomy & Physiology of Hearing\)],[Acoustic Phonetics: Vowels \(2016\)],)
+    #v(design-highlights-top-margin);#highlights([Auditory Cognitive Neuroscience — Northwestern CSD 366 \(Cognitive Science Proseminar\)],[Subcortical Auditory Anatomy — Pitt CSD 2110 \(Neuroscience of Communication\)],[Subcortical Contributions to Language — UT Dallas \(Brain & Language\)],[Subcortical Auditory Anatomy and Human Function — Pitt CSD 1024 \(Anatomy & Physiology of Hearing\)],[Acoustic Phonetics: Vowels — Harvard SHBT 204 \(Speech Communication\)],)
   ],
 )
 
@@ -986,7 +1047,7 @@
     #strong[PhD Students]
 
     #v(-design-text-leading)
-    #v(design-highlights-top-margin);#highlights([Michelle Medina, Biomedical Engineering, Northwestern \(2024–\)],[Serena Mon, Communication Sciences and Disorders, Northwestern \(2023–2024\)],)
+    #v(design-highlights-top-margin);#highlights([Laura Raiff, Biomedical Engineering, Northwestern \(2026–present; lead advisor, dissertation advisory committee\)],[Michelle Medina, Biomedical Engineering, Northwestern \(2024–present; dissertation advisory committee\)],[Serena Mon, Communication Sciences and Disorders, Northwestern \(2023–2024; qualifying exam committee\)],)
   ],
 )
 
@@ -1008,7 +1069,7 @@
     #strong[Undergraduate Research Assistants]
 
     #v(-design-text-leading)
-    #v(design-highlights-top-margin);#highlights([Max Chen, BA Cognitive Science, Northwestern \(2025–\)],[Gabrielle Butler, BA Cognitive Science, Northwestern \(2024–2025; honors thesis\)],[Amp Kangusmrith, BA Cognitive Science, Northwestern \(2024–\)],[Angelina Dinardo, BA CSD, University of Pittsburgh],[Madison Andreano, BA CSD, University of Pittsburgh],[Olivia Flemm, BA CSD, University of Pittsburgh],)
+    #v(design-highlights-top-margin);#highlights([Max Chen, BA Cognitive Science, Northwestern \(2025–present; FFRPREP contributor\)],[Gabrielle Butler, BA Cognitive Science, Northwestern \(2024–2025; honors thesis\)],[Amp Kangusmrith, BA Cognitive Science, Northwestern \(2024–present; Independent Study in Cognitive Science\)],[Angelina Dinardo, BA CSD, University of Pittsburgh \(Completed MS in Speech Language Pathology at Northeastern University\)],[Madison Andreano, BA CSD, University of Pittsburgh \(Completed her MS in Speech Language Pathology at the University of Minnesota\)],[Olivia Flemm, BA CSD, University of Pittsburgh \(Completed her AuD at the University of Pittsburgh\)],)
   ],
 )
 
@@ -1019,7 +1080,7 @@
     #strong[High School Research Assistants]
 
     #v(-design-text-leading)
-    #v(design-highlights-top-margin);#highlights([Leo Chen \(2025\)],[Karen Linares Mendoza \(2022\)],)
+    #v(design-highlights-top-margin);#highlights([Leo Chen \(2025, Northwestern University; FFRPREP contributor\)],[Karen Linares Mendoza \(2022, University of Pittsburgh; Now pursuing undergraduate studies at Johns Hopkins University\)],)
   ],
 )
 
@@ -1154,10 +1215,51 @@
 
 #two-col-entry(
   left-content: [
-    #strong[Admissions Committee, Northwestern Interdepartmental Neuroscience PhD Program]
+    #strong[#emph[Aperture Neuro] Editorial Review Board]
   ],
   right-content: [
-    2025
+    2026—present
+  ],
+)
+#one-col-entry(
+  content: [
+    
+  ],
+)
+
+#v(design-entries-vertical-space-between-entries)
+#two-col-entry(
+  left-content: [
+    #strong[#emph[Frontiers in Language Sciences] Review Editor]
+  ],
+  right-content: [
+    2022—present
+  ],
+)
+#one-col-entry(
+  content: [
+    
+  ],
+)
+
+#v(design-entries-vertical-space-between-entries)
+
+#one-col-entry(
+  content: [
+    #strong[Ad hoc reviewer]
+
+    #v(-design-text-leading)
+    #v(design-highlights-top-margin);#highlights([Journals: #emph[Aperture Neuro, Brain & Language, Brain Structure and Function, Cerebral Cortex, Frontiers in Psychology, Heliyon, Journal of the Association for Research in Otolaryngology, Journal of Neuroscience Research, Journal of Speech, Language, and Hearing Research, Molecular Genetics & Genomic Medicine, NeuroImage, Neuropsychologia, OHBM Abstract Submissions, PLOS ONE]],[Granting agenncies: European Research Council, Swiss National Science Foundation],)
+  ],
+)
+
+#v(design-entries-vertical-space-between-entries)
+#two-col-entry(
+  left-content: [
+    #strong[PhD Admissions Committee, Northwestern University Interdepartmental Neuroscience \(NUIN\) Program]
+  ],
+  right-content: [
+    2025–2026
   ],
 )
 #one-col-entry(
@@ -1207,7 +1309,7 @@
 )
 #one-col-entry(
   content: [
-    #v(design-highlights-top-margin);#highlights([Past Chair \(2024–2025\)],[Chair \(2023–2024\)],[Chair-Elect \/ Blog Team Lead \(2022–2023\)],[Podcast Team co-founder and editor \(2021–2022\)],)
+    #v(design-highlights-top-margin);#highlights([Past Chair \(2024–2025\)],[Chair \(2023–2024\)],[Chair-Elect \/ Blog Team Lead \(2022–2023\)],[Podcast Team Co-founder and Editor \(2021–2022\)],)
   ],
 )
 
@@ -1229,40 +1331,10 @@
 #v(design-entries-vertical-space-between-entries)
 #two-col-entry(
   left-content: [
-    #strong[SCAN Moderator]
+    #strong[Society for Cognitive Auditory Neuroscience \(SCAN\) Moderator]
   ],
   right-content: [
     2021–2023
-  ],
-)
-#one-col-entry(
-  content: [
-    
-  ],
-)
-
-#v(design-entries-vertical-space-between-entries)
-#two-col-entry(
-  left-content: [
-    #strong[Aperture Neuro Editorial Review Board]
-  ],
-  right-content: [
-    2026
-  ],
-)
-#one-col-entry(
-  content: [
-    
-  ],
-)
-
-#v(design-entries-vertical-space-between-entries)
-#two-col-entry(
-  left-content: [
-    #strong[Frontiers in Language Sciences Review Editor]
-  ],
-  right-content: [
-    2022
   ],
 )
 #one-col-entry(
@@ -1304,7 +1376,7 @@
 #v(design-entries-vertical-space-between-entries)
 #two-col-entry(
   left-content: [
-    #strong[SMALL Journal Club Co-founder]
+    #strong[SMALL Journal Club Co-founder and Organizer]
   ],
   right-content: [
     2016–2019
