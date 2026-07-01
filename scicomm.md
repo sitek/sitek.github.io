@@ -1,13 +1,15 @@
 # Science communication
 Science requires communication—our work only has an impact when it's shared with others. Starting in my PhD, I have been involved in science communication focusing on both general and scientific audiences.
 
-## Publications and preprints
-- **Sitek, KR**, Wearn, A, DuPre, EM. [Communication is the foundation of an impactful and resilient scientific community](https://doi.org/10.52294/001c.143510).  *Aperture Neuro*. 2025;5(SI 3). doi:10.52294/001c.143510
-- Wearn A, **Sitek KR**, Valk SL, Forkel SJ. [The Organization for Human Brain Mapping Time Machine: A freely accessible archive of Annual Meeting talks on YouTube](https://doi.org/10.52294/001c.138647). *Aperture Neuro*. 2025;5(SI 2). doi:10.52294/​001c.138647
+## Publications
+- **Sitek, K.R.**, Wearn, A., DuPre, E.M. [Communication is the foundation of an impactful and resilient scientific community](https://doi.org/10.52294/001c.143510).  *Aperture Neuro*. 2025;5(SI 3). doi:10.52294/001c.143510
+- Wearn, A., **Sitek, K.R.**, Valk, S.L., Forkel, S.J. [The Organization for Human Brain Mapping Time Machine: A freely accessible archive of Annual Meeting talks on YouTube](https://doi.org/10.52294/001c.138647). *Aperture Neuro*. 2025;5(SI 2). doi:10.52294/​001c.138647
 
 
 ## Teaching
 **Northwestern University CSD 550-3: Communicating Science.** Why do we share our research? How do we best communicate research with different audiences? What are best practices in oral, written, visual, and multimedia communication? This course helps Northwestern PhD students craft their own scientific narrative and develop communication skills for sharing their work with diverse audiences.
+
+**Harvard MGH LINC Camp: Science Communication.** The LINC Camp is an 8-week virtual program that immerses high school students in the fields of neuroscience, neuroimaging, and coding through scientific seminars and hands-on activities, while also offering guidance on college readiness and STEM career opportunities. LINC Camp scholars will take a 6-week introductory coding course, while also participating in neuroscience seminars. They will then spend two weeks applying their coding skills to help map the wiring of the brain. In 2025 and again in 2026, I co-taught a LINC Camp session on Science Communication with [Yohan Yee](http://yohanyee.ca) and Anastasia Yendiki where we covered communication within science as well as with the general public and how it's affected by technology, particularly artificial intelligence (AI).
 
 ## Organization for Human Brain Mapping (OHBM)
 I first attended OHBM in 2025 and have attended almost every meeting since then. I got involved with the [Student–Postdoc Special Interest Group](https://www.ohbmtrainees.com) in 2019, helping share the cool mentorship and training work being organized by our students and postdocs. Later, I joined the [Communications Committee](http://ohbm-com.com/), where I edited (and sometimes appeared in) podcasts and blogs, maintained the burgeoning OHBMonthly member newsletter, and helped kick off a new annual award winner blog series and a [quarterly newsletter in collaboration with The Transmitter](https://www.thetransmitter.org/newsletters-alerts/) from the Simons Foundation.
