@@ -186,6 +186,16 @@ Berkeley, CA
 
 
 # Submitted Manuscripts and Preprints
+## **Evaluating Approaches for Inference Testing of Whole-Brain Densely Sampled Single-Subject Task fMRI Data**
+
+in review
+
+Medina, M.C., Reddy, N.A., Bright, M.G., **Sitek, K.R.**
+
+[10.64898/2026.06.29.735344](https://doi.org/10.64898/2026.06.29.735344) (bioRxiv)
+
+
+
 ## **Distinct 7T functional MRI response patterns to stimulus, response, and feedback across dorsal striatum during auditory learning**
 
 in revision

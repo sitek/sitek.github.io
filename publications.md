@@ -2,6 +2,7 @@
 For an up-to-date publication list, see my [Google Scholar](https://scholar.google.com/citations?hl=en&user=fNPFNhsAAAAJ) profile.
 
 ## Preprints/submitted
+- Medina, M.C., Reddy, N.A., Bright, M.G., **Sitek, K.R.**. (*submitted*) ["Evaluating Approaches for Inference Testing of Whole-Brain Densely Sampled Single-Subject Task fMRI Data."](https://doi.org/10.64898/2026.06.29.735344). _bioRxiv_ (2026 preprint).
 - **Sitek, K.R.**, Roark, C.L., Helou, L.B., Chandrasekaran, B. (in revision) “Distinct 7T functional MRI response patterns to stimulus, response, and feedback across dorsal striatum during auditory learning.”
 - Llanos, F.\*, **Sitek, K. R.**\*, Feng, G., Chandrasekaran, B. Dimensional coding of native and non-native speech categories. (*submitted*)
 - **Sitek, K.R.**, Helou, L.B., Chandrasekaran, B. [Auditory corticostriatal connections in the human brain](https://doi.org/10.1101/2022.08.04.502679). _bioRxiv_ (2022 preprint).

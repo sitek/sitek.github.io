@@ -127,6 +127,15 @@ cv:
           - "Sponsor: Satrajit S. Ghosh, PhD; Co-Sponsor: John D. E. Gabrieli, PhD"
 
     submitted_manuscripts_and_preprints:
+      - title: "Evaluating Approaches for Inference Testing of Whole-Brain Densely Sampled Single-Subject Task fMRI Data"
+        authors:
+          - Medina, M.C.
+          - Reddy, N.A.
+          - Bright, M.G.
+          - "**Sitek, K.R.**"
+        journal: bioRxiv
+        doi: 10.64898/2026.06.29.735344
+        date: "in review"
       - title: "Distinct 7T functional MRI response patterns to stimulus, response, and feedback across dorsal striatum during auditory learning"
         authors:
           - "**Sitek, K.R.**"
