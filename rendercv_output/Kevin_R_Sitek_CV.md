@@ -427,6 +427,10 @@ Tarabichi, O., Kozin, E.D., Kanumuri, V.V., Barber, S., Ghosh, S., **Sitek, K.R.
 
 ## **Undergraduate Research Assistants**
 
+- Joshua Shin, BA Neuroscience and Spanish, Northwestern (2026–present)
+
+- Vidyuth Sridhar, BA Neuroscience and Journalism, Northwestern (2026–present)
+
 - Max Chen, BA Cognitive Science, Northwestern (2025–present; FFRPREP contributor)
 
 - Gabrielle Butler, BA Cognitive Science, Northwestern (2024–2025; honors thesis)
@@ -525,7 +529,7 @@ Tarabichi, O., Kozin, E.D., Kanumuri, V.V., Barber, S., Ghosh, S., **Sitek, K.R.
 
 - Journals: *Aperture Neuro, Brain & Language, Brain Structure and Function, Cerebral Cortex, Frontiers in Psychology, Heliyon, Journal of the Association for Research in Otolaryngology, Journal of Neuroscience Research, Journal of Speech, Language, and Hearing Research, Molecular Genetics & Genomic Medicine, NeuroImage, Neuropsychologia, OHBM Abstract Submissions, PLOS ONE*
 
-- Granting agenncies: European Research Council, Swiss National Science Foundation
+- Granting agencies: European Research Council, Swiss National Science Foundation, American Speech-Language-Hearing Association
 
 
 
