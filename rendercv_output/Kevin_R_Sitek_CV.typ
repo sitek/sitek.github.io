@@ -81,7 +81,7 @@
   date: datetime(
     year: 2026,
     month: 7,
-    day: 1,
+    day: 14,
   ),
 )
 
@@ -359,9 +359,24 @@
 
 #regular-entry(
   [
+    #strong[Motor signals modulate cortical but not subcortical processing of self-initiated sounds]
+
+    Raiff, L., Butler, G., McFarlane, K., Chandrasekaran, B., #strong[Sitek, K.R.]
+
+    #link("https://doi.org/10.64898/2026.07.10.737812")[10.64898\/2026.07.10.737812] (bioRxiv)
+
+  ],
+  [
+    in review
+
+  ],
+)
+
+#regular-entry(
+  [
     #strong[Evaluating Approaches for Inference Testing of Whole-Brain Densely Sampled Single-Subject Task fMRI Data]
 
-    Medina, M.C., Reddy, N.A., Bright, M.G., #strong[Sitek, K.R.]
+    Medina, M.C., Reddy, N.H., Bright, M.G., #strong[Sitek, K.R.]
 
     #link("https://doi.org/10.64898/2026.06.29.735344")[10.64898\/2026.06.29.735344] (bioRxiv)
 
@@ -393,7 +408,7 @@
 
   ],
   [
-    in review
+    in revision
 
   ],
 )
