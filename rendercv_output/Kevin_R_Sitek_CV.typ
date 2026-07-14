@@ -361,7 +361,7 @@
   [
     #strong[Motor signals modulate cortical but not subcortical processing of self-initiated sounds]
 
-    Raiff, L., Butler, G., McFarlane, K., Chandrasekaran, B., #strong[Sitek, K.R.]
+    Raiff, L.†, Butler, G.†, McFarlane, K., Chandrasekaran, B., #strong[Sitek, K.R.]
 
     #link("https://doi.org/10.64898/2026.07.10.737812")[10.64898\/2026.07.10.737812] (bioRxiv)
 
@@ -404,7 +404,7 @@
   [
     #strong[The recognition and comprehension of speech sound patterns show a mechanistic dissociation along the ventral and dorsal streams]
 
-    Llanos, F., #strong[Sitek, K.R.], Feng, G., Chandrasekaran, B.
+    Llanos, F.†, #strong[Sitek, K.R.]†, Feng, G., Chandrasekaran, B.
 
   ],
   [
@@ -494,7 +494,7 @@
   [
     #strong[Functional connectivity across the human subcortical auditory system using an autoregressive matrix-Gaussian copula graphical model approach with partial correlations]
 
-    Chandra, N.K.#emph[, ]#emph[Sitek, K.R.]#sym.ast.basic#h(0pt, weak: true) #sym.ast.basic#h(0pt, weak: true) , Sarkar, A., Chandrasekaran, B.
+    Chandra, N.K.†, #strong[Sitek, K.R.]†, Sarkar, A., Chandrasekaran, B.
 
     #link("https://doi.org/10.1162/imag_a_00258")[10.1162\/imag\_a\_00258] (Imaging Neuroscience)
 
@@ -569,7 +569,7 @@
   [
     #strong[Mapping the human subcortical auditory system using histology, postmortem MRI and in vivo MRI at 7T]
 
-    #strong[Sitek, K.R.]#emph[, Gulban, O.F.], Calabrese, E., Johnson, G.A., Lage-Castellanos, A., Moerel, M., Ghosh, S.S.†, De Martino, F.†
+    #strong[Sitek, K.R.]†, Gulban, O.F.†, Calabrese, E., Johnson, G.A., Lage-Castellanos, A., Moerel, M., Ghosh, S.S.^, De Martino, F.^
 
     #link("https://doi.org/10.7554/eLife.48932")[10.7554\/eLife.48932] (eLife)
 
@@ -584,7 +584,7 @@
   [
     #strong[Alterations in the inferior longitudinal fasciculus in autism and associations with visual processing: a diffusion-weighted MRI study]
 
-    Boets, B., Van Eylen, L., #strong[Sitek, K.], Moors, P., Noens, I., Steyaert, J., Sunaert, S., Wagemans, J.
+    Boets, B., Van Eylen, L., #strong[Sitek, K.R.], Moors, P., Noens, I., Steyaert, J., Sunaert, S., Wagemans, J.
 
     #link("https://doi.org/10.1186/s13229-018-0188-6")[10.1186\/s13229-018-0188-6] (Molecular Autism)
 

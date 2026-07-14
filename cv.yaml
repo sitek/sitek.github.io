@@ -129,8 +129,8 @@ cv:
     submitted_manuscripts_and_preprints:
       - title: "Motor signals modulate cortical but not subcortical processing of self-initiated sounds"
         authors:
-          - Raiff, L.
-          - Butler, G.
+          - "Raiff, L.†"
+          - "Butler, G.†"
           - McFarlane, K.
           - Chandrasekaran, B.
           - "**Sitek, K.R.**"
@@ -155,8 +155,8 @@ cv:
         date: "in revision"
       - title: "The recognition and comprehension of speech sound patterns show a mechanistic dissociation along the ventral and dorsal streams"
         authors:
-          - Llanos, F.
-          - "**Sitek, K.R.**"
+          - "Llanos, F.†"
+          - "**Sitek, K.R.**†"
           - Feng, G.
           - Chandrasekaran, B.
         date: "in revision"
@@ -207,15 +207,13 @@ cv:
         date: "2025"
       - title: "Functional connectivity across the human subcortical auditory system using an autoregressive matrix-Gaussian copula graphical model approach with partial correlations"
         authors:
-          - "Chandra, N.K.*"
-          - "**Sitek, K.R.***"
+          - "Chandra, N.K.†"
+          - "**Sitek, K.R.**†"
           - Sarkar, A.
           - Chandrasekaran, B.
         journal: Imaging Neuroscience
         doi: 10.1162/imag_a_00258
         date: "2024"
-        highlights:
-          - "* equal contributions"
       - title: "Cortical-subcortical interactions to violations of auditory predictions measured with 7T functional MRI"
         authors:
           - Ara, A.
@@ -263,14 +261,14 @@ cv:
         date: "2020"
       - title: "Mapping the human subcortical auditory system using histology, postmortem MRI and in vivo MRI at 7T"
         authors:
-          - "**Sitek, K.R.***"
-          - "Gulban, O.F.*"
+          - "**Sitek, K.R.**†"
+          - "Gulban, O.F.†"
           - Calabrese, E.
           - Johnson, G.A.
           - Lage-Castellanos, A.
           - Moerel, M.
-          - "Ghosh, S.S.†"
-          - "De Martino, F.†"
+          - "Ghosh, S.S.^"
+          - "De Martino, F.^"
         journal: eLife
         doi: 10.7554/eLife.48932
         date: "2019"
@@ -280,7 +278,7 @@ cv:
         authors:
           - Boets, B.
           - Van Eylen, L.
-          - "**Sitek, K.**"
+          - "**Sitek, K.R.**"
           - Moors, P.
           - Noens, I.
           - Steyaert, J.

@@ -190,7 +190,7 @@ Berkeley, CA
 
 in review
 
-Raiff, L., Butler, G., McFarlane, K., Chandrasekaran, B., **Sitek, K.R.**
+Raiff, L.†, Butler, G.†, McFarlane, K., Chandrasekaran, B., **Sitek, K.R.**
 
 [10.64898/2026.07.10.737812](https://doi.org/10.64898/2026.07.10.737812) (bioRxiv)
 
@@ -218,7 +218,7 @@ in revision
 
 in revision
 
-Llanos, F., **Sitek, K.R.**, Feng, G., Chandrasekaran, B.
+Llanos, F.†, **Sitek, K.R.**†, Feng, G., Chandrasekaran, B.
 
 
 
@@ -277,7 +277,7 @@ Wearn, A., **Sitek, K.R.**, Valk, S.L., Forkel, S.J.
 
 2024
 
-Chandra, N.K.*, **Sitek, K.R.***, Sarkar, A., Chandrasekaran, B.
+Chandra, N.K.†, **Sitek, K.R.**†, Sarkar, A., Chandrasekaran, B.
 
 [10.1162/imag_a_00258](https://doi.org/10.1162/imag_a_00258) (Imaging Neuroscience)
 
@@ -327,7 +327,7 @@ Truong, P., Kim, J.H., Savjani, R., **Sitek, K.R.**, Hagberg, G., Scheffler, K.,
 
 2019
 
-**Sitek, K.R.***, Gulban, O.F.*, Calabrese, E., Johnson, G.A., Lage-Castellanos, A., Moerel, M., Ghosh, S.S.†, De Martino, F.†
+**Sitek, K.R.**†, Gulban, O.F.†, Calabrese, E., Johnson, G.A., Lage-Castellanos, A., Moerel, M., Ghosh, S.S.^, De Martino, F.^
 
 [10.7554/eLife.48932](https://doi.org/10.7554/eLife.48932) (eLife)
 
@@ -337,7 +337,7 @@ Truong, P., Kim, J.H., Savjani, R., **Sitek, K.R.**, Hagberg, G., Scheffler, K.,
 
 2018
 
-Boets, B., Van Eylen, L., **Sitek, K.**, Moors, P., Noens, I., Steyaert, J., Sunaert, S., Wagemans, J.
+Boets, B., Van Eylen, L., **Sitek, K.R.**, Moors, P., Noens, I., Steyaert, J., Sunaert, S., Wagemans, J.
 
 [10.1186/s13229-018-0188-6](https://doi.org/10.1186/s13229-018-0188-6) (Molecular Autism)
 
