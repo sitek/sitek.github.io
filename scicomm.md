@@ -9,7 +9,7 @@ Science requires communication—our work only has an impact when it's shared wi
 ## Teaching
 **Northwestern University CSD 550-3: Communicating Science.** Why do we share our research? How do we best communicate research with different audiences? What are best practices in oral, written, visual, and multimedia communication? This course helps Northwestern PhD students craft their own scientific narrative and develop communication skills for sharing their work with diverse audiences.
 
-**Harvard MGH LINC Camp: Science Communication.** The LINC Camp is an 8-week virtual program that immerses high school students in the fields of neuroscience, neuroimaging, and coding through scientific seminars and hands-on activities, while also offering guidance on college readiness and STEM career opportunities. LINC Camp scholars will take a 6-week introductory coding course, while also participating in neuroscience seminars. They will then spend two weeks applying their coding skills to help map the wiring of the brain. In 2025 and again in 2026, I co-taught a LINC Camp session on Science Communication with [Yohan Yee](http://yohanyee.ca) and Anastasia Yendiki where we covered communication within science as well as with the general public and how it's affected by technology, particularly artificial intelligence (AI).
+**Harvard MGH LINC Camp: Science Communication.** The [LINC Camp](https://connects.mgh.harvard.edu/outreach/linc-camp/) is an 8-week virtual program that immerses high school students in the fields of neuroscience, neuroimaging, and coding through scientific seminars and hands-on activities, while also offering guidance on college readiness and STEM career opportunities. LINC Camp scholars will take a 6-week introductory coding course, while also participating in neuroscience seminars. They will then spend two weeks applying their coding skills to help map the wiring of the brain. In 2025 and again in 2026, I co-taught a LINC Camp session on Science Communication with [Yohan Yee](http://yohanyee.ca) and [Anastasia Yendiki](https://lcn.martinos.org/people/ayendiki/) where we covered communication within science as well as with the general public and how it's affected by technology, particularly artificial intelligence (AI).
 
 ## Organization for Human Brain Mapping (OHBM)
 I first attended OHBM in 2025 and have attended almost every meeting since then. I got involved with the [Student–Postdoc Special Interest Group](https://www.ohbmtrainees.com) in 2019, helping share the cool mentorship and training work being organized by our students and postdocs. Later, I joined the [Communications Committee](http://ohbm-com.com/), where I edited (and sometimes appeared in) podcasts and blogs, maintained the burgeoning OHBMonthly member newsletter, and helped kick off a new annual award winner blog series and a [quarterly newsletter in collaboration with The Transmitter](https://www.thetransmitter.org/newsletters-alerts/) from the Simons Foundation.
@@ -17,11 +17,10 @@ I first attended OHBM in 2025 and have attended almost every meeting since then.
 - OHBM Communications Committee Member, 2021–2025
     - Chair, 2023–24
     - Blog Team Lead, 2022–2023
+    - Neurosalience Podcast Production Team, 2021–2022
 - Student–Postdoc Special Interest Group, 2019–2021
     - Social Media and Communications Lead
 
-### Neurosalience, the OHBM podcast
-Podcast Team co-founder and editor, 2021–22
 
 ### Neurosalience podcast appearances
 - [S5E13](https://youtu.be/NnEr4iNd3tI?si=eqe4XGV-B0WokXmH): OHBM 2025 preview with Jean Chen, Marta Garrido, Michael Breakspear, and Lena Oestreich (co-hosted by Kevin Sitek)

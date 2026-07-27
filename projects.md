@@ -5,9 +5,9 @@ I have a strong interest in [subcortical auditory structures](#mapping-the-human
 
 My current research program has three primary aims: 
 
-1. Characterize the role of human subcortical auditory nuclei such as inferior colliculus in [auditory learning and decision-making](#auditory-learning-and-decision-making) (funded by an NIH K01 Mentored Career Development Award)
+1. Characterize the role of human subcortical nuclei such as inferior colliculus in [auditory learning and decision-making](#auditory-learning-and-decision-making) (funded by an NIH K01 Mentored Career Development Award)
 2. Assay fine-grained [cortical and subcortical auditory contributions to speech–motor control](#cortical-and-subcortical-contributions-to-speechmotor-control) (funded by an NIH Early Career Researcher R21 Award)
-3. Examine the neural systems underlying [speech and hearing across the normal lifespan and in disordered populations]()
+3. Examine the neural systems underlying [speech and hearing across the normal lifespan and in disordered populations](#neural-systems-for-speech-and-hearing-across-the-lifespan-and-in-disordered-populations)
 
 ## Auditory learning and decision-making
 
@@ -25,10 +25,14 @@ While we speak, our brains are not only generating the motor commands for speech
 
 ![Image](./images/Sitek2013_Fig1.png)
 
-### Characterizing cortical laminar and brainstem contributions to auditory–motor control
-Working with collaborators at the University of Pittsburgh, I collected high resolution (sub-millimeter) functional MRI focused on the auditory pathway to delineate the specific subcortical and cortical subdivisions that are implicated in processing self-generated sounds. Preliminary analysis shows cortical layer-specific differences in processing self-generated vs. externally presented sounds (Sitek et al., 2025 OHBM poster). 
+### Is brainstem auditory processing modulated by motor initiation?
+Where does auditory–motor integration first occur—auditory cortex or even earlier? Working with Northwestern undergraduate student Gabby Butler for her cognitive science honors thesis, as well as with biomedical engineering PhD student Laura Raiff, we used scalp-recorded EEG and found cortical—but not subcortical—modulation of auditory processing during an auditory–motor integration task ([Raiff & Butler, ..., Sitek, 2026 preprint](https://doi.org/10.64898/2026.07.10.737812)). Funded by an ECR R21 award from NIDCD, we are now localizing the source of auditory modulation using multi-channel EEG and functional MRI.
 
-Where does auditory–motor integration first occur—auditory cortex or even earlier? Working with Northwestern undergraduate student Gabby Butler for her cognitive science honors thesis, we used scalp-recorded EEG and found cortical—but not subcortical—modulation of auditory processing during an auditory–motor integration task (Butler, …, Sitek, in prep). 
+![Image](./images/graphical_abstract.pdf)
+
+
+### Characterizing cortical laminar contributions to auditory–motor control
+Working with collaborators at the University of Pittsburgh, I collected high resolution (sub-millimeter) functional MRI focused on the auditory pathway to delineate the specific subcortical and cortical subdivisions that are implicated in processing self-generated sounds. Preliminary analysis shows cortical layer-specific differences in processing self-generated vs. externally presented sounds (Sitek et al., 2025 OHBM poster). 
 
 ## Neural systems for speech and hearing across the lifespan and in disordered populations
 I have previously used state-of-the-art neuroimaging techniques to elucidate the neural underpinnings of persistent developmental stuttering [(Sitek et al., 2016)](https://doi.org/10.3389/fnhum.2016.00190), autism [(Boets et al., 2018)](https://doi.org/10.1186/s13229-018-0188-6), and sensorineural hearing loss [(Tarabichi et al., 2017)](https://doi.org/10.1177/0194599817739838). 
@@ -53,8 +57,6 @@ We are currently examining vasculature in the human dorsal midbrain (superior co
 ### Brainstem tissue properties in typical human participants
 To learn more about brainstem anatomy in living humans, I have used "quantitative" MRI methods to estimate specific brain tissue properties ([Sitek & Ghosh, 2020 OHBM poster](https://twitter.com/krsitek/status/1275806156095709185?s=20)). Tissue characteristics were consistent across individuals and within individuals across different sessions, demonstrating the applicability of quantitative MRI in studying the human brainstem.
 
-In future work, I will quantify anatomical tissue properties in human brainstem within individual structures (for instance, in the subdivisions of the inferior colliculus).
-
 ### Mapping the subcortical auditory pathway in living humans
 The computational power of the brain comes from its incredible interconnectedness. To study brain connectivity in living humans, we can estimate structural connectivity using diffusion-weighted MRI tractography, and we can estimate functional connectivity using functional MRI. I used tractography to map the subcortical auditory system in both typical participants and in a post mortem sample ([Sitek & Gulban et al., 2019](https://doi.org/10.7554/eLife.48932)).
 ![Image](./images/KevinSitek_postmortem-human-brainstem_auditory-tractography.png)
@@ -65,6 +67,8 @@ Working with statisticans at UT Austin (and now UT Dallas), I have also used adv
 
 ### Brainstem processing of sensory stimuli
 In collaboration with Faruk Gulban ([Sitek & Gulban et al., 2019](https://doi.org/10.7554/eLife.48932)), we identified the major subcortical auditory structures in each individual participant using functional MRI, providing methods for future investigations into more specific auditory processing and how it's affected by hearing disorders.
+
+More recently, working with [Molly Bright](https://www.brightlab.northwestern.edu/bright/) and Michelle Medina, we demonstrated functional MRI responses to sound presentation in subcortical structures using conventional 3T MRI field strengths with a multi-echo fMRI sequence. Michelle first demonstrated this sensitivity at the group level ([Medina, Reddy, Sitek, & Bright, 2026](https://doi.org/10.1016/j.heares.2026.109622)) before showing participant-specific brainstem sensitivity to sound presentation ([Medina, Reddy, Bright, & Sitek, 2026 preprint](https://doi.org/10.64898/2026.06.29.735344)). The data are publicly available on [OpenNeuro.org](https://doi.org/10.18112/openneuro.ds008070.v1.0.0).
 
 ### Multisensory processing in superior colliculus
 The superior colliculus is an important subcortical structure for creating visual maps of the world, incorporating information from multiple sensory modalities, including hearing and touch. In collaboration with the Max Planck Institute for Biological Cybernetics in Tübingen, Germany, I investigated somatovisual processing in human superior colliculus with ultra-high field 9.4 Tesla functional MRI ([Sitek et al., 2020 OHBM poster](https://twitter.com/krsitek/status/1275804583944732674?s=20)). I found that visual attention in superior colliculus is modulated by tactile information (air puffs to the fingers), and that multisensory information may be represented deeper in colliculus. I will next investigate auditory–visual processing in superior colliculus to find out how these sensory modalities interact.

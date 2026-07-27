@@ -1,6 +1,9 @@
 ## Imaging the human subcortical auditory system
 I'm a neuroscientist studying subcortical structures in the human brain that enable speech communication.
-I am a [research assistant professor](https://communication.northwestern.edu/faculty/kevin-sitek.html) in the [SoundBrain Lab](https://soundbrainlab.northwestern.edu) at Northwestern University's [Roxelyn and Richard Pepper Department of Communication Sciences and Disorders](https://communication.northwestern.edu/academics/communication-sciences-and-disorders/). 
+
+I currently am a [research assistant professor](https://communication.northwestern.edu/faculty/kevin-sitek.html) in the [SoundBrain Lab](https://soundbrainlab.northwestern.edu) at Northwestern University's [Roxelyn and Richard Pepper Department of Communication Sciences and Disorders](https://communication.northwestern.edu/academics/communication-sciences-and-disorders/). 
+
+In January 2027 I will be joining the [Department of Speech, Language, and Hearing](https://bbs.utdallas.edu/departments/speech-language-and-hearing/) as a tenure-track assistant professor in the [School of Behavioral and Brain Sciences](https://bbs.utdallas.edu) at UT Dallas.
 
 My work is funded by the NIH through an NIDCD Early Career Research Award (R21DC022906), "Auditory–motor interactions in neural processing and the frequency-following response" and a Mentored Career Development Award (K01DC019421) entitled "Investigating human non-lemniscal inferior colliculus contributions to auditory learning with 7T MRI".
 
