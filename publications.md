@@ -2,6 +2,7 @@
 For an up-to-date publication list, see my [Google Scholar](https://scholar.google.com/citations?hl=en&user=fNPFNhsAAAAJ) profile.
 
 ## Preprints/submitted
+- Moya, B., **Sitek, K.R.**, Roy, A., Chandrasekaran, B., Sarkar, A. [Bayesian Semiparametric Hidden Markov Random Partition Fields for Factor Collapse on Graphs: A Study of Cortical Mapping of Fingertips](https://doi.org/10.48550/arXiv.2609.13319). _arXiv_ (2026 preprint).
 - Raiff, L., Butler, G., McFarlane, K., Chandrasekaran, B., **Sitek, K.R.** [Motor signals modulate cortical but not subcortical processing of self-initiated sounds](https://doi.org/10.64898/2026.07.10.737812). _bioRxiv_ (2026 preprint).
 - Medina, M.C., Reddy, N.H., Bright, M.G., **Sitek, K.R.** [Evaluating Approaches for Inference Testing of Whole-Brain Densely Sampled Single-Subject Task fMRI Data](https://doi.org/10.64898/2026.06.29.735344). _bioRxiv_ (2026 preprint). (*in review*)
 - **Sitek, K.R.**, Roark, C.L., Helou, L.B., Chandrasekaran, B. Distinct 7T functional MRI response patterns to stimulus, response, and feedback across dorsal striatum during auditory learning. (*in revision*)

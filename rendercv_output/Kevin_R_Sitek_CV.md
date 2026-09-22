@@ -186,6 +186,16 @@ Berkeley, CA
 
 
 # Submitted Manuscripts and Preprints
+## **Bayesian Semiparametric Hidden Markov Random Partition Fields for Factor Collapse on Graphs: A Study of Cortical Mapping of Fingertips**
+
+2026
+
+Moya, B., **Sitek, K.R.**, Roy, A., Chandrasekaran, B., Sarkar, A.
+
+[10.48550/arXiv.2609.13319](https://doi.org/10.48550/arXiv.2609.13319) (arXiv)
+
+
+
 ## **Motor signals modulate cortical but not subcortical processing of self-initiated sounds**
 
 in review

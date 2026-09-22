@@ -80,8 +80,8 @@
   entries-highlights-space-between-bullet-and-text: 0.5em,
   date: datetime(
     year: 2026,
-    month: 7,
-    day: 14,
+    month: 9,
+    day: 22,
   ),
 )
 
@@ -356,6 +356,21 @@
 )
 
 == Submitted Manuscripts and Preprints
+
+#regular-entry(
+  [
+    #strong[Bayesian Semiparametric Hidden Markov Random Partition Fields for Factor Collapse on Graphs: A Study of Cortical Mapping of Fingertips]
+
+    Moya, B., #strong[Sitek, K.R.], Roy, A., Chandrasekaran, B., Sarkar, A.
+
+    #link("https://doi.org/10.48550/arXiv.2609.13319")[10.48550\/arXiv.2609.13319] (arXiv)
+
+  ],
+  [
+    2026
+
+  ],
+)
 
 #regular-entry(
   [
